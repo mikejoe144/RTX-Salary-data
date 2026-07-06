@@ -1,0 +1,873 @@
+Timestamp,What business unit are you in?,"Were is your work location? 
+(e.g. Houston, Largo, Remote, etc.)","What is your pay grade? 
+(P2, M4, T5, etc.)","What is your business function? 
+(Engineering, Ops/Supply Chain, HR, etc.)","How many years of professional working experience do you have? 
+(in whole years - round appropriately - <1 put 0)","How long have you been with the company? 
+(in whole years - round appropriately - <1 put 0)","How long have you been in your current pay grade? 
+(in whole years, round appropriately - <1 put 0)",Were you eligible for a merit increase this year?,"What was your merit increase percentage for 2026?
+ (Answer as a percentage)",What degrees do you hold?,"What is your new salary after merit increase? 
+(in dollars)","What was your annual bonus payout amount in dollars?
+(if not eligible put 0)",How happy are you overall with your raise and bonus this year?,"Comments 
+(say anything you'd like)",Were you eligible for a bonus this year?
+2/22/2026 22:33:56,Raytheon,"Honolulu, HI",P3,Mission Intelligence ,12,1,1,Yes,3,"Bachelors, Masters",133900,5200,3 - Ambivalent,,Yes
+2/23/2026 4:49:14,Raytheon,UK,M4,EHS,23,12,4,Yes,3.5,Bachelors,97000,14200,4 - Happy,,Yes
+2/23/2026 5:37:03,Pratt and Whitney,Hybrid,P2,Ops,,4,1,Yes,3,Masters,97000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 6:54:23,Collins Aerospace,Puerto Rico,P3,Software,3,0,0,Yes,1,"Bachelors, Masters",80800,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 7:02:41,Other (e.g.) corporate,Remote,P1,Supply Chain,4,0,0,Yes,3,Masters,85490,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 7:40:16,Raytheon,Pennsylvania,P1,Engineering,1,1,1,Yes,6,Bachelors,88117.8,6570.59,5 - Estatic,,Yes
+2/23/2026 7:47:24,Pratt and Whitney,WPB,P4,Engineering,8,8,0,Yes,3.2,Bachelors,135000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 7:52:54,Raytheon,McKinney,P1,OSC,2,2,2,Yes,5.5,Bachelors,71957.33,5183.65,5 - Estatic,This is besides the promotion I will be receiving this year,Yes
+2/23/2026 8:00:36,Raytheon,McKinney,P2,Engineering,5,3,3,Yes,5,Bachelors,119,7500,5 - Estatic,,Yes
+2/23/2026 8:30:29,Other (e.g.) corporate,Remote,P3,Enterprise Services,5,3,2,Yes,3.04,"Bachelors, Masters",119000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 8:39:57,Raytheon,Tewksbury,P3,Supply chain,20,14,2,Yes,3,Bachelors,95481,5565,2 - Unhappy,One of the top people on my team and part of a  succession plan but only 11% into my pay band. ,Yes
+2/23/2026 8:44:44,Raytheon,Remote,P3,Finance,8,4,0,Yes,2.8,"Bachelors, Masters",102900,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/23/2026 8:47:41,Raytheon,Remote,P4,Quality,14,4,0,Yes,3,Bachelors,144960,9530,4 - Happy,,Yes
+2/23/2026 9:37:17,Collins Aerospace,Remote,P3,Engineering,9,7,4,Yes,3,Masters,133649,5190,3 - Ambivalent,,Yes
+2/23/2026 9:57:14,Raytheon,Hybrid ,P4,Engineering,14,9,4,Yes,5,Bachelors,163600,7564,4 - Happy,,Yes
+2/23/2026 10:03:43,Pratt and Whitney,Remote,P2,Customer Support Engineering,2,2,2,Yes,3.4,"Bachelors, Masters",89762,0,4 - Happy,,No - my position is not eligible for a bonus
+2/23/2026 10:05:36,Raytheon,Andover ,P3,Engineering ,10,3,1,Yes,,None,,,,,
+2/23/2026 10:07:32,Raytheon,Tucson,P4,Contracts,9,9,3,Yes,3,"Bachelors, Masters",121076,9380,3 - Ambivalent,Manager said that merit was flat across the board at 3%. No one in our group got more or less. ,Yes
+2/23/2026 10:08:39,Raytheon,Tewksbury ,M5,Financr,12,12,0,Yes,3.25,Bachelors,156200,13000,4 - Happy,,Yes
+2/23/2026 10:31:24,Other (e.g.) corporate,,,,,,,,,,,,,,
+2/23/2026 10:37:13,Raytheon,El Segundo ,P2,Engineering ,4,4,2,Yes,5,Bachelors,106760,6676,4 - Happy,,Yes
+2/23/2026 10:39:41,Collins Aerospace,Remote,P3,Engineering,6,4,0,Yes,3,"Bachelors, Masters",100258,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 11:39:23,Collins Aerospace,Cedar Rapids,P4,Engineering,16,16,3,Yes,4.2,Bachelors,146000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/23/2026 12:01:02,Pratt and Whitney,Remote,M5,ME,15,15,2,Yes,4,Bachelors,170000,24000,4 - Happy,,Yes
+2/23/2026 12:04:59,Collins Aerospace,Cedar Rapids,P4,Engineering,10,10,1,"No - received a promotion ""inclusive og merit""",0,"Bachelors, Masters",144000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/23/2026 12:06:35,Collins Aerospace,Cedar Rapids,P3,Engineering ,8,8,1,Yes,3.05,"Bachelors, Masters",117500,0,5 - Estatic,,No - my position is not eligible for a bonus
+2/23/2026 12:09:35,Raytheon,North Carolina ,P3,Finance ,16,3,1,Yes,3,"Bachelors, Masters",97644,4600,1 - Terrible,,Yes
+2/23/2026 12:21:00,Other (e.g.) corporate,Remote (AZ),P4,Finance,10,10,1,Yes,2.82,Bachelors,131000,9600,3 - Ambivalent,,Yes
+2/23/2026 12:33:41,Raytheon,Tewksbury,P4,Engineering,10,4,1,Yes,3.2,Bachelors,180000,12000,4 - Happy,,Yes
+2/23/2026 12:38:58,Raytheon,Remote,M3,Finance,10,3,0,Yes,3.5,Bachelors,111000,6500,4 - Happy,,Yes
+2/23/2026 12:48:58,Raytheon,Remote,P3,Engineering ,6,6,2,Yes,3,Bachelors,129400,7900,3 - Ambivalent,,Yes
+2/23/2026 12:56:48,Pratt and Whitney,NY,M3,Operations ,4,2,0,Yes,3,Bachelors,103000,11000,4 - Happy,,Yes
+2/23/2026 12:57:37,Collins Aerospace,Winston-Salem ,P5,Engineering,13,13,2,Yes,3,"Bachelors, Masters",154360,32146,4 - Happy,,Yes
+2/23/2026 13:01:03,Pratt and Whitney,East Hartford,P4,Engineering,8,5,0,Yes,2.52,"Bachelors, Masters",154500,0,3 - Ambivalent,"Got promoted mid way through the year, was told merit percentage was given mostly on prior promotion salary.",No - my position is not eligible for a bonus
+2/23/2026 13:39:00,Collins Aerospace,Largo,P3,Ops,7,7,1,Yes,4.2,"Bachelors, Masters",118000,7000,3 - Ambivalent,,Yes
+2/23/2026 13:39:14,Raytheon,Remote,P2,Finance,3,3,1,Yes,3.5,Bachelors,79953.75,4696.8,4 - Happy,,Yes
+2/23/2026 13:54:22,Raytheon,Tucson,P2,Engineering,4,4,4,Yes,4.1,Masters,102000,7650,4 - Happy,,Yes
+2/23/2026 14:08:07,Other (e.g.) corporate,Tucson ,P2,Engineering,0,0,0,No - too recent of a hire,0,Masters,100000,0,3 - Ambivalent,"New hire, LDP/rotational.",No - too recent of a hire
+2/23/2026 14:20:56,Pratt and Whitney,East Hartford,P4,Engineering,10,10,3,Yes,3,"Bachelors, Masters",139000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 14:34:10,Other (e.g.) corporate,Remote,P4,Finance,10,3,2,Yes,6.44,Masters,107500,16500,3 - Ambivalent,,Yes
+2/23/2026 14:38:33,Other (e.g.) corporate,Tucson ,P2,,,12,5,Yes,3.17,Bachelors,94500,6700,3 - Ambivalent,,Yes
+2/23/2026 14:39:51,Collins Aerospace,remote ,p3,supply chain ,6,4,4,Yes,2.8,"Bachelors, Masters",103000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 14:40:48,Pratt and Whitney,East Hartford ,P3,Engineering,4,4,1,Yes,3.43,"Bachelors, Masters",109300,0,4 - Happy,,No - my position is not eligible for a bonus
+2/23/2026 14:41:10,Raytheon,McKinney,P4,DT,16,,9,Yes,3.1,Bachelors,186686,14372,4 - Happy,,Yes
+2/23/2026 14:48:49,Raytheon,"El Segundo, CA",P3,SEIT,8,6,4,Yes,3.09,Masters,150026,9500,3 - Ambivalent,"2025 Tech Honors, Optical SME",Yes
+2/23/2026 14:57:55,Collins Aerospace,,,Engineering,4,4,0,Yes,4.7,Bachelors,,,4 - Happy,,No - my position is not eligible for a bonus
+2/23/2026 15:14:50,Collins Aerospace,Cedar Rapids,P2,Software Engineer,2,4,2,Yes,3.5,"Bachelors, Masters",117307.69,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/23/2026 15:21:39,Pratt and Whitney,East Hartford,P4,Engineering,8,8,3,Yes,3.2,"Bachelors, Masters",135000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 15:22:47,Raytheon,Remote MA,P4,Engineering,9,1,1,Yes,3.1,Bachelors,154650,9057,4 - Happy,,Yes
+2/23/2026 15:31:12,Raytheon,Tucson,P2,Operations,3,3,0,Yes,3,Bachelors,93527,5700,3 - Ambivalent,,Yes
+2/23/2026 16:21:34,Collins Aerospace,Iowa,P5,Product Line,21,21,5,Yes,4,Bachelors,180000,38000,4 - Happy,,Yes
+2/23/2026 16:40:14,Raytheon,Remote,P5,Engineering,28,2,1,Yes,3.1,Bachelors,183500,18000,5 - Estatic,,Yes
+2/23/2026 16:40:42,Collins Aerospace,Cedar Rapids,P2,Engineering,3,3,1,Yes,3.5,Bachelors,94500,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 16:45:42,Collins Aerospace,,P4,Engineering,15,,,Yes,3.3,"Bachelors, Masters",150000,,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 16:48:41,Collins Aerospace,Riverside,R1,Ops,2,3,1,Yes,3,Bachelors,74300,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/23/2026 16:56:05,Collins Aerospace,Remote,P4,Supply chain,20,,,Yes,3.1,Bachelors,143000,9860,4 - Happy,,Yes
+2/23/2026 16:57:00,Collins Aerospace,Remote,P4,Dt,11,7,4,Yes,3.5,Bachelors,,,2 - Unhappy,,No - my position is not eligible for a bonus
+2/23/2026 16:57:10,Raytheon,"Aurora, CO",P2,Engineering,5,3,3,Yes,2.5,Bachelors,102000,5400,2 - Unhappy,,Yes
+2/23/2026 16:57:46,Pratt and Whitney,East Hartford,P4,Engineering,8,8,1,Yes,5,"Bachelors, Masters",134800,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 17:13:12,Raytheon,Remote,M5,Procurement,15,4,0,Yes,5.35,"Bachelors, Masters",146000,14500,5 - Estatic,,Yes
+2/23/2026 17:52:11,Raytheon,Marlborough,P3,Engineering,19,5,5,Yes,3,Bachelors,130000,7300,2 - Unhappy,,Yes
+2/23/2026 18:38:19,Raytheon,FL,M3,HR,14,4,1,Yes,5,None,107000,7500,4 - Happy,,Yes
+2/23/2026 18:43:04,Pratt and Whitney,East Hartford,P3,Engineering,8,4,2,Yes,3,Bachelors,112000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 19:01:32,Collins Aerospace,Cedar Rapids,P5,Engineering,19,19,3,Yes,3.2,Bachelors,157896,32130,3 - Ambivalent,,Yes
+2/23/2026 19:10:14,Collins Aerospace,Remote,P3,LCC,6,0,0,No - too recent of a hire,0,Bachelors,105000,0,1 - Terrible,,No - my position is not eligible for a bonus
+2/23/2026 19:11:19,Raytheon,Tucson,P3,Engineering,7,3,0,Yes,3.5,Bachelors,126270,8100,3 - Ambivalent,,Yes
+2/23/2026 19:18:41,Collins Aerospace,Richardson,P4,Cybersecurity ,8,5,0,"No - received a promotion ""inclusive og merit""",1,"Bachelors, Masters",134300,6992,5 - Estatic,"Transferred from Raytheon to Collins in January. Contract stated I was ineligible for merit this year, but somehow was given a little something. Very appreciative of this gesture from my leadership. ",No - my position is not eligible for a bonus
+2/23/2026 19:25:09,Raytheon,Remote,P6,PMO,14,14,6,Yes,3.21,"Bachelors, Masters",210500,72000,5 - Estatic,,Yes
+2/23/2026 19:28:06,Raytheon,Louisville,P3,Engineering,9,,2,Yes,3.6,Bachelors,121000,7150,3 - Ambivalent,,Yes
+2/23/2026 19:28:47,Raytheon,Tucson,P3,Engineering,7,7,2,Yes,5.5,"Bachelors, Masters",123300,8250,4 - Happy,,Yes
+2/23/2026 19:30:26,Pratt and Whitney,OKC,P5,General Management,9,3,1,Yes,4,"Bachelors, Masters",156000,34400,5 - Estatic,,Yes
+2/23/2026 19:33:27,Collins Aerospace,Chula Vista,P1,Engineering,2,2,2,Yes,3,Bachelors,100499,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/23/2026 19:56:38,Collins Aerospace,Richardson ,P4,Engineering,10,4,1,Yes,4,"Bachelors, Masters",154747,0,4 - Happy,,No - my position is not eligible for a bonus
+2/23/2026 19:57:48,Raytheon,Tewksbury,P2,Engineering,2,2,0,"No - received a promotion ""inclusive og merit""",0,Bachelors,101000,2500,3 - Ambivalent,,Yes
+2/23/2026 20:09:01,Collins Aerospace,Cedar Rapids,P5,Engineering,22,10,5,Yes,4.7,"Bachelors, Masters",171091,35051,5 - Estatic,After <2% raises the past two years my manager is trying to recoup me from our previous departmental “administration”,Yes
+2/23/2026 20:21:03,Other (e.g.) corporate,"Arlington, VA",P7,,25,,,Yes,3,"Bachelors, Masters",267000,103000,4 - Happy,,Yes
+2/23/2026 20:34:49,Raytheon,Tucson,P4,Engineering ,18,2,2,Yes,3.9,"Bachelors, Masters",168300,12000,4 - Happy,,Yes
+2/23/2026 20:36:27,Raytheon,El Segundo ,P4,Engineering ,25,25,8,Yes,2.93,Masters,200000,14650,2 - Unhappy,,Yes
+2/23/2026 20:53:01,Collins Aerospace,,P3,,6,3,3,Yes,3.3,None,128000,7500,3 - Ambivalent,,Yes
+2/23/2026 21:05:02,Collins Aerospace,Remote,P6,Engineering,20,12,1,Yes,3,"Bachelors, Masters",240000,65000,4 - Happy,,Yes
+2/23/2026 21:14:55,Collins Aerospace,UAE,P5,Ops/Supply Chain,14,9,1,Yes,3.9,"Bachelors, Masters",169000,30000,4 - Happy,,Yes
+2/23/2026 21:18:23,Collins Aerospace,Remote,P3,Digital Technology,4,4,1,Yes,3,"Bachelors, Masters",134000,7350,3 - Ambivalent,,Yes
+2/23/2026 21:28:01,Raytheon,,M7,OSC,25,6,1,Yes,3,Bachelors,245000,81000,4 - Happy,,Yes
+2/23/2026 21:53:41,Raytheon,,P2,Engineering,4,4,2,Yes,2.7,Bachelors,104000,,2 - Unhappy,,Yes
+2/23/2026 22:16:34,Raytheon,Tucson ,M5,Engineering ,12,7,0,Yes,4,"Bachelors, Masters",198000,17000,4 - Happy,,Yes
+2/23/2026 22:16:38,Raytheon,Tucson Az ,P2,Engineering ,3,3,1,Yes,4,"Bachelors, 6 weeks from masters",98500,6500,4 - Happy,Probably leaving in a month so was happy with the big bonus tbh. ,Yes
+2/23/2026 22:16:44,Raytheon,AZ,P2,Engineering ,,0,0,Yes,1.5,Bachelors,111650,2363.7,4 - Happy,,Yes
+2/23/2026 23:39:12,Raytheon,Tucson,P3,Ops/Supply Chain,20,3,4,Yes,2.7,Bachelors,133300,7400,4 - Happy,,Yes
+2/24/2026 1:59:24,Other (e.g.) corporate,Remote,P4,Communications,12,11,5,Yes,3.22,Masters,131000,10500,4 - Happy,,Yes
+2/24/2026 4:36:08,Pratt and Whitney,Asheville ,P4,OpX,8,2,0,Yes,3,Bachelors,123600,14600,4 - Happy,,Yes
+2/24/2026 5:05:49,Pratt and Whitney,CT,R,Ops,1,1,0,No - too recent of a hire,,Bachelors,71000,,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 5:08:26,Raytheon,McKinney,P4,Quality Engineering,8,5,0,Yes,2.91,Bachelors,122850,7980,3 - Ambivalent,Prorated bonus - started P4 mid year,Yes
+2/24/2026 5:31:35,Raytheon,Remote,P3,Finance,5,3,1,Yes,3,Bachelors,90125,5054,3 - Ambivalent,,Yes
+2/24/2026 5:42:22,Raytheon,Sydney,P2,Engineering,4,4,1,Yes,3.1,Bachelors,98152,5788,3 - Ambivalent,,Yes
+2/24/2026 5:46:55,Collins Aerospace,Cedar Rapids,M6,Engineering,18,18,3,Yes,3,"Bachelors, Masters",205000,49000,4 - Happy,,Yes
+2/24/2026 7:22:45,Collins Aerospace,Richardson,P2,Engineering,3,3,0,Yes,3.2,Bachelors,100000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 7:23:43,Raytheon,McKinney,P3,Engineering,6,6,1,Yes,3.3,"Bachelors, Masters",106943,6672,3 - Ambivalent,,Yes
+2/24/2026 7:32:34,Pratt and Whitney,"North Berwick, ME",P1,Engineering,1,1,1,"No - received a promotion ""inclusive og merit""",,Bachelors,82000,,3 - Ambivalent,,No - too recent of a hire
+2/24/2026 7:37:36,Collins Aerospace,Marlborough ,P5,Engineering,21,21,3,Yes,3,Bachelors,185000,16500,2 - Unhappy,It's a living,Yes
+2/24/2026 7:49:00,Collins Aerospace,Iowa,P3,Engineering,5,3,0,Yes,1.5,Bachelors,123000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 8:04:44,Raytheon,Remote ,P2,Engineering ,15,5,5,Yes,2.8,Bachelors,84567,4751,2 - Unhappy,Fine with the bonus very unhappy about raise it has been my lowest so far ,Yes
+2/24/2026 8:37:06,Pratt and Whitney,East Hartford,P3,Engineering,6,3,1,Yes,3.5,Bachelors,102500,0,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 8:48:56,Collins Aerospace,Florida,P3,Engineering,5,3,0,Yes,6,Bachelors,114230,6780.52,5 - Estatic,,Yes
+2/24/2026 8:50:09,Collins Aerospace,Cedar Rapids,P3,Engineering,6,6,1,Yes,3.5,Bachelors,109700,,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 8:54:43,Raytheon,Tucson,M4,Engineering,26,7,4,Yes,4.6,Bachelors,176900,14400,4 - Happy,,Yes
+2/24/2026 9:09:26,Collins Aerospace,Florida,P3,Engineering,5,3,0,Yes,6,Bachelors,114230,6780.52,5 - Estatic,,Yes
+2/24/2026 9:09:28,Pratt and Whitney,East Hartford,P3,Engineering,9,2,2,Yes,3.76,Masters,112000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 9:26:56,Raytheon,McKinney ,P4,OSC,10,3,1,Yes,3,None,115000,7300,3 - Ambivalent,,Yes
+2/24/2026 9:28:20,Raytheon,McKinney,P2,Engineering,4,3,1,Yes,3,Bachelors,98000,4000,3 - Ambivalent,,Yes
+2/24/2026 9:28:23,Pratt and Whitney,West Virginia,P2,Customer Service,3,3,0,Yes,3.5,Bachelors,79000,5300,3 - Ambivalent,,Yes
+2/24/2026 9:43:26,Raytheon,Tucson,P3,Engineering ,7,4,4,Yes,3.8,"Bachelors, Masters",129000,8400,4 - Happy,,Yes
+2/24/2026 9:50:46,Raytheon,Tucson,M4,Engineering,11,11,0,Yes,3.95,"Bachelors, Masters",,9790,4 - Happy,,Yes
+2/24/2026 9:53:39,Collins Aerospace,CT,P3,Engineering,3,3,0,"No - received a promotion ""inclusive og merit""",,"Bachelors, Masters",107000,0,3 - Ambivalent,Merit 3% + Promotion 10%,No - my position is not eligible for a bonus
+2/24/2026 10:03:48,Pratt and Whitney,Oklahoma City,P3,Engineering ,6,3,3,Yes,3.23,Bachelors,111800,13300,4 - Happy,,Yes
+2/24/2026 10:04:15,Raytheon,Andover,P4,Engineering,11,1,1,Yes,2.85,Bachelors,156000,11000,3 - Ambivalent,,Yes
+2/24/2026 10:10:17,Other (e.g.) corporate,Remote,P3,,15,10,3,Yes,6,Bachelors,115000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 10:08:54,Collins Aerospace,Windsor locks,P3,Ops,10,6,1,Yes,3,Bachelors,107000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 10:17:08,Raytheon,McKinney ,P5,Supply Chain,10,0,0,Yes,3,Bachelors,159650,0,3 - Ambivalent,New employee. Suspect low pay relative to same-grade peers. Uncertain about how HR reconciles salary and experience relative to peers. ,No - too recent of a hire
+2/24/2026 10:18:18,Raytheon,Tucson,P3,Engineering,7,0,0,Yes,2.1,Bachelors,132730,6280,3 - Ambivalent,,Yes
+2/24/2026 10:50:27,Other (e.g.) corporate,,M6,,,,,Yes,3,"Bachelors, Masters",180000,50000,4 - Happy,,Yes
+2/24/2026 10:58:29,Collins Aerospace,Cedar Rapids,P3,Engineering,8,8,1,Yes,4.25,Bachelors,115000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 10:59:28,Pratt and Whitney,East Hartford,P4,Engineering - Professional,15,11,2,Yes,3.35,Bachelors,117100,0,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 11:19:03,Collins Aerospace,,P4,Engineering,16,12,2,Yes,2.9,Bachelors,126000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 11:42:55,Collins Aerospace,Iowa,T5,Engineering ,23,7,7,Yes,3.2,Trade school. ,80000,0,1 - Terrible,,No - my position is not eligible for a bonus
+2/24/2026 11:42:57,Raytheon,Andover,P3,Engineering,6,6,2,Yes,4.5,Masters,108000,6500,3 - Ambivalent,,Yes
+2/24/2026 11:55:27,Collins Aerospace,Cedar Rapid,P],Engineering,2,2,0,"No - received a promotion ""inclusive og merit""",0,Bachelors,100400,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 11:56:23,Raytheon,Remote,P3,Ops,5,2,0,Yes,5,Bachelors,105000,7000,4 - Happy,,Yes
+2/24/2026 12:07:51,Raytheon,Tewksbury,P2,Engineering,4,4,1,Yes,3,"Bachelors, Masters",100000,7000,3 - Ambivalent,,Yes
+2/24/2026 12:17:26,Collins Aerospace,Remote,P3,Supply Chain,5,5,0,Yes,3,Masters,92700,0,4 - Happy,Got promoted at the end of 2025 and still got merit increase ,No - my position is not eligible for a bonus
+2/24/2026 12:24:25,Raytheon,McKinney,P5,Engineering,25,25,5,Yes,3.3,Masters,184400,17257,4 - Happy,,Yes
+2/24/2026 12:44:22,Collins Aerospace,Remote,P3,Engineering,10,10,4,Yes,3,Bachelors,104313,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 12:46:34,Pratt and Whitney,East Hartford,P3,Engineering,8,4,2,Yes,3.1,Masters,106000,0,1 - Terrible,,No - my position is not eligible for a bonus
+2/24/2026 12:48:23,Collins Aerospace,Remote,P4,Engineering,10,2,2,Yes,4.3,Bachelors,145000,0,5 - Estatic,,No - my position is not eligible for a bonus
+2/24/2026 12:53:12,Collins Aerospace,,P3,,,,,Yes,,,,,,,No - my position is not eligible for a bonus
+2/24/2026 13:10:03,Collins Aerospace,"Cedar Rapids, Iowa",T5,Engineering,21,17,3,Yes,3.1,None,87000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 13:13:40,Pratt and Whitney,East Hartford,P1,Engineering,1,1,1,Yes,3.06,Bachelors,88100,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 13:16:18,Collins Aerospace,Remote,P3,Finance,4,3,0,Yes,3.5,Masters,93150,6000,4 - Happy,,Yes
+2/24/2026 13:32:20,Raytheon,Remote,P1,Engineering,4,2,2,Yes,3,Bachelors,86300,4600,4 - Happy,,Yes
+2/24/2026 13:51:43,Raytheon,Remote,P3,QMA,4,4,0,Yes,3,"Bachelors, Masters",103000,6200,4 - Happy,,Yes
+2/24/2026 13:59:52,Raytheon,McKinney,P2,Ops,3,6,0,Yes,0.035,"Bachelors, Masters",88953,0.07,4 - Happy,,Yes
+2/24/2026 14:02:47,Raytheon,Tucson ,P2,Engineering,3,3,3,Yes,3,"Bachelors, Masters",110000,6500,4 - Happy,,Yes
+2/24/2026 14:37:56,Pratt and Whitney,WPB,P4,Engineering,12,2,2,Yes,2.69,"Bachelors, Masters",141000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 14:54:02,Other (e.g.) corporate,Remote,M6,Enterprise Services ,20,5,0,"No - received a promotion ""inclusive og merit""",0,"Bachelors, Masters",215000,55000,4 - Happy,,Yes
+2/24/2026 15:03:20,Collins Aerospace,Monroe,T3,,14,8,5,Yes,3.1,None,70400,,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 15:08:09,Raytheon,Mckinney,P4,engineering,,18,5,Yes,3,Bachelors,135000,3000,2 - Unhappy,,Yes
+2/24/2026 15:14:01,Pratt and Whitney,Hartford,P2,Engineering,3,2,2,Yes,4.26,"Bachelors, Masters",92900,0,5 - Estatic,,No - my position is not eligible for a bonus
+2/24/2026 15:29:11,Pratt and Whitney,East Hartford,P3,Engineering,6,4,2,Yes,3.8,"Bachelors, Masters",106500,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 15:39:51,Collins Aerospace,"Seattle, Washington",M4,Engineering,10,5,5,Yes,4,Masters,100000,5000,1 - Terrible,"I'm quite satisfied with the raise and bonus this year, although there's always room for improvement.
+
+By the way, we've been using surveyswap.io to get respondents. You fill in surveys and get responses back. Perhaps it's also helpful to you. Anyway, good luck!",Yes
+2/24/2026 16:02:06,Raytheon,Forest ,P2,Cybersecurity ,6,1,1,Yes,2.8,Bachelors,92520,4452,1 - Terrible,Lowest merit raise I have ever received. ,Yes
+2/24/2026 16:10:49,Raytheon,Tucson,P2,Engineering,4,4,1,Yes,2.4,Bachelors,93293.17,5312.17,2 - Unhappy,,Yes
+2/24/2026 16:21:28,Pratt and Whitney,East Hartford ,P3,Engineering ,4,4,3,Yes,4,Masters,122000,,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 16:43:58,Raytheon,Remote,P3,Engineering,7,7,2,Yes,4,Bachelors,108500,7600,4 - Happy,,Yes
+2/24/2026 16:49:36,Raytheon,Andover,P1,Quality ,1,1,1,Yes,5.5,Bachelors,78000,4250,2 - Unhappy,,Yes
+2/24/2026 16:50:29,Collins Aerospace,Lenexa,P2,Ops,3,3,3,Yes,3.8,Masters,101400,0,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 16:51:42,Raytheon,Tucson ,P1,Engineering,4,2,2,Yes,2.7,Bachelors,101000,6100,2 - Unhappy,"I've had a promotion dangling in front of me for a year, but still no promo",Yes
+2/24/2026 16:53:15,Collins Aerospace,Cedar Rapids,P2,Engineering,2,2,0,Yes,2.94,Bachelors,98000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 17:07:11,Raytheon,Richardson,P3,Engineering,18,6,2,Yes,4,"Bachelors, Masters",118375,8315,3 - Ambivalent,,Yes
+2/24/2026 17:15:18,Pratt and Whitney,East Hartford,P4,Engineering,9,9,0,Yes,3,"Bachelors, Masters",129000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 17:19:20,Raytheon,Tucson ,P3,Engineering ,6,3,1,Yes,2.5,"Bachelors, Masters",123000,6000,3 - Ambivalent,,Yes
+2/24/2026 17:30:05,Raytheon,El Segundo,P3,Engineering,6,3,1,Yes,3.1,Masters,139185,8166,3 - Ambivalent,,Yes
+2/24/2026 17:41:12,Raytheon,Tucson,P2,Engineering (MSA),,3,3,Yes,2.9,Masters,103000,6000,3 - Ambivalent,"The reasoning behind the raise made a little sense, but was still a let down. Happy with my bonus amount.",Yes
+2/24/2026 17:42:02,Raytheon,Tucson ,P3,ISSO,5,3,2,Yes,3,Masters,117500,6950,2 - Unhappy,,Yes
+2/24/2026 17:48:42,Other (e.g.) corporate,Remote,P4,Enterprise Services,5,5,0,Yes,3,Masters,155000,5000,4 - Happy,,Yes
+2/24/2026 18:05:03,Collins Aerospace,Cedar Rapids,P4,Engineering,7,0,0,Yes,2,Masters,140500,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 18:06:20,Raytheon,Remote,P3,Finance,10,10,1,Yes,3,Bachelors,107200,6500,3 - Ambivalent,,Yes
+2/24/2026 18:22:39,Raytheon,Tucson,P3,Engineering,9,2,2,Yes,2.46,Bachelors,142000,7000,2 - Unhappy,,Yes
+2/24/2026 18:33:43,Collins Aerospace,Remote,P5,Engineering,14,12,,Yes,4,Bachelors,175000,36500,4 - Happy,,Yes
+2/24/2026 18:34:05,Raytheon,Remote,P2,Ops/Supply Chain,5,2,2,Yes,2.75,Masters,82500,4300,2 - Unhappy,Thinking in underlaid for a P2,Yes
+2/24/2026 18:37:44,Collins Aerospace,Remote,P3,Engineering,10,10,3,Yes,3,Bachelors,120,,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 18:43:48,Raytheon,Tucson,P3,Engineering,9,3,3,Yes,4.5,Phd,144000,9200,4 - Happy,,Yes
+2/24/2026 18:46:49,Pratt and Whitney,East Hartford,P3,Engineering,5,2,2,Yes,3.3,"Bachelors, Masters, Phd",123000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 18:55:29,Collins Aerospace,Winston Salem,P1,Engineering,0,0,0,Yes,3,Bachelors,89000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 19:09:04,Raytheon,Tucson,P1,Engineering,2,2,2,Yes,3.6,Bachelors,88823,5890,3 - Ambivalent,,Yes
+2/24/2026 19:15:22,Collins Aerospace,Cedar Rapids,P2,Engineering,5,1,1,Yes,3.9,Bachelors,107000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/24/2026 19:20:49,Pratt and Whitney,East Hartford,P2,Engineering,3,3,1,Yes,3.18,"Bachelors, Masters",100100,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/24/2026 19:21:17,Pratt and Whitney,East Hartford,P5,Program Management,8,8,1,Yes,3.5,"Bachelors, Masters",158500,21500,4 - Happy,,Yes
+2/24/2026 19:27:38,Collins Aerospace,Cedar Rapids,P4,Engineering,9,9,1,Yes,2.8,,147780,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 19:53:55,Collins Aerospace,Cedar Rapids,P2,Engineering,5,5,3,Yes,3.1,"Bachelors, Masters",119100,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 19:56:13,Raytheon,Remote,P3,Ops/Supply Chain,6,6,6,Yes,3,"Bachelors, Masters",116000,6000,2 - Unhappy,,Yes
+2/24/2026 20:05:37,Raytheon,Tewksbury,P3,Engineering,7,7,2,Yes,2.6,"Bachelors, Masters",120349.8,6451.5,3 - Ambivalent,,Yes
+2/24/2026 20:19:27,Raytheon,remote,p6,engineering lead,40,19,7,Yes,3,Bachelors,234096,76058,4 - Happy,,Yes
+2/24/2026 20:22:27,Raytheon,,P2,Engineering,4,4,2,Yes,4,Bachelors,98850,6885,5 - Estatic,,Yes
+2/24/2026 20:25:36,Pratt and Whitney,East Hartford,P4,Engineering,12,8,3,Yes,2.71,Masters,141000,,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 20:28:59,Collins Aerospace,Cedar Rapids,P5,Engineering,20,17,5,Yes,6,"Bachelors, Masters",196500,41500,5 - Estatic,,Yes
+2/24/2026 20:37:12,Pratt and Whitney,CT,P5,Program,12,10,2,Yes,3,Masters,156800,33372,5 - Estatic,,Yes
+2/24/2026 20:55:20,Pratt and Whitney,Middletown,P3,Engineering,5,3,2,Yes,3.04,"Bachelors, Masters",108500,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 20:57:01,Other (e.g.) corporate,Remote ,P5,HR,17,6,3,Yes,3,Masters,158900,39000,4 - Happy,,Yes
+2/24/2026 21:04:54,Raytheon,Plano,P3,Engineering,12,5,2,Yes,3,Bachelors,120000,7250,3 - Ambivalent,,Yes
+2/24/2026 21:08:01,Pratt and Whitney,"East Hartford, CT ",P5,Program Office ,15,8,0,"No - received a promotion ""inclusive og merit""",,"Bachelors, Masters",147000,0,4 - Happy,,"No. P4 last year, and at PW that = no bonus"
+2/24/2026 21:11:07,Collins Aerospace,Cedar Rapids,P2,Engineering,4,4,1,Yes,2.15,Bachelors,95000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/24/2026 21:17:48,Raytheon,"Portsmouth, RI",P3,Engineering,11,6,2,Yes,2.9,"Bachelors, Masters",147686,8876,4 - Happy,,Yes
+2/24/2026 21:34:06,Raytheon,Tucson,P1,Engineering,4,4,4,Yes,3.6,Bachelors,88000,5700,4 - Happy,,Yes
+2/24/2026 21:45:21,Raytheon,Marlborough,P4,Engineering,6,6,0,Yes,2.8,"Bachelors, Masters",143920,9643.05,3 - Ambivalent,,Yes
+2/24/2026 22:13:34,Collins Aerospace,Remote,M6,DT,15,7,2,Yes,3.2,"Bachelors, Masters",219000,60000,4 - Happy,,Yes
+2/24/2026 22:15:44,Raytheon,Tucson,P4,Engineering ,13,3,3,Yes,3.4,Bachelors,168000,12400,4 - Happy,,Yes
+2/24/2026 22:21:29,Raytheon,Tucson,P2,Engineering ,5,5,2,Yes,3.2,Bachelors,93200,5650,2 - Unhappy,,
+2/24/2026 23:00:25,Raytheon,Tucson,P1,Engineering,3,3,3,Yes,8.1,Bachelors,89000,5600,3 - Ambivalent,Wanted a promotion,Yes
+2/25/2026 4:56:02,Raytheon,Tewksbury,P3,Engineering,8,7,0,Yes,3.4,Bachelors,126000,8000,4 - Happy,,Yes
+2/25/2026 5:32:19,Raytheon,Andover,P4,Engineering ,21,11,4,Yes,3.6,"Bachelors, Masters",168000,12850,4 - Happy,,Yes
+2/25/2026 5:53:38,Raytheon,Tucson,P3,Finance,5,2,2,Yes,3.47,Bachelors,111900,7000,5 - Estatic,,Yes
+2/25/2026 6:07:34,Raytheon,Remote,P4,Engineering ,11,6,3,Yes,4,"Bachelors, Masters",150972,11584,5 - Estatic,,Yes
+2/25/2026 6:51:30,Collins Aerospace,Rockford,P2,Engineering,2,2,2,Yes,3,"Bachelors, Masters",98300,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/25/2026 6:59:15,Raytheon,massachusetts,P2,LCE sustainment,15,3,3,Yes,2,,89200,4000,2 - Unhappy,,Yes
+2/25/2026 7:02:41,Raytheon,SC remote,P3,Engineering,8,8,3,Yes,3.7,Bachelors,107236,6916,4 - Happy,Better raise and bonus than last year ,Yes
+2/25/2026 7:56:48,Raytheon,Tucson,P1,Engineering,2,2,2,Yes,3.5,Bachelors,83232,5217,3 - Ambivalent,,Yes
+2/25/2026 7:59:33,Raytheon,Portsmouth,P1,Mechanical Engineering,3,3,3,Yes,4,Bachelors,86000,5500,3 - Ambivalent,,Yes
+2/25/2026 8:02:29,Collins Aerospace,El Segundo ,P4,Engineering,8,7,3,Yes,4.1,"Bachelors, Masters",174000,13700,3 - Ambivalent,,Yes
+2/25/2026 8:05:13,Raytheon,New Mexico,P4,Quality,7,2,0,Yes,2.8,"Bachelors, Masters",140000,9275,4 - Happy,,Yes
+2/25/2026 8:10:58,Collins Aerospace,"Sterling, VA",P1,Engineering,1,1,1,Yes,4,Bachelors,106300,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/25/2026 8:16:11,Collins Aerospace,New York,P2,Engineering ,2,2,1,Yes,3,Bachelors,98345,0,4 - Happy,,No - my position is not eligible for a bonus
+2/25/2026 8:39:30,Other (e.g.) corporate,Remote,P5,Finance,12,6,4,Yes,3,Masters,180000,38000,4 - Happy,,Yes
+2/25/2026 8:44:00,Collins Aerospace,Connecticut ,P3,Engineering ,7,7,0,Yes,2.7,"Bachelors, Masters",113000,0,5 - Estatic,,No - my position is not eligible for a bonus
+2/25/2026 8:46:35,Other (e.g.) corporate,Remote,P5,Engineering,15,3,3,Yes,3.9,Phd,220000,27000,4 - Happy,,Yes
+2/25/2026 8:49:09,Collins Aerospace,,p1,engineering,2,2,2,Yes,2,Bachelors,,,2 - Unhappy,,No - my position is not eligible for a bonus
+2/25/2026 8:56:03,Collins Aerospace,Remote,P2,Digital Technology,5,5,2,Yes,3.01,"Bachelors, Masters",82200,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/25/2026 9:13:09,Raytheon,Remote,P5,Supply Chain,28,17,4,Yes,3.07,Bachelors,171414,15166,3 - Ambivalent,,Yes
+2/25/2026 9:13:25,Raytheon,Remote (MA),P3,Engineering,6,6,2,Yes,3.3,"Bachelors, Masters",111784,6316,3 - Ambivalent,,Yes
+2/25/2026 9:39:22,Pratt and Whitney,Remote,P3,Ops/supply Chain,8,8,3,Yes,1.8,Masters,104500,0,1 - Terrible,,No - my position is not eligible for a bonus
+2/25/2026 9:48:27,Collins Aerospace,Remote,P3,Supply chain,12,4,4,Yes,3.2,Masters,129300,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/25/2026 9:54:10,Raytheon,Remote,P3,Engineering ,7,7,3,Yes,2.5,Masters,96320.27,5427.77,2 - Unhappy,My SH said the raises this year were actively hostile towards remote workers.,Yes
+2/25/2026 10:07:04,Raytheon,Tucson,P3,Engineering,5,5,2,Yes,17.9,"Bachelors, Masters",124361,7196,3 - Ambivalent,,Yes
+2/25/2026 10:12:31,Collins Aerospace,Cedar Rapids,P2,Engineering,4,4,3,Yes,3,Bachelors,101000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/25/2026 10:26:50,Raytheon,Andover,P5,PMO,19,15,6,Yes,4.2,"Bachelors, Masters",182000,15700,4 - Happy,,Yes
+2/25/2026 11:22:36,Pratt and Whitney,Asheville,P4,Quality,7,7,2,Yes,4,"Bachelors, Masters",16000,16000,3 - Ambivalent,,Yes
+2/25/2026 11:28:49,Pratt and Whitney,Ashevillr,P4,Quality,7,7,2,Yes,4,"Bachelors, Masters",116000,16000,3 - Ambivalent,,Yes
+2/25/2026 11:33:21,Raytheon,"Aurora, CO",P3,Ops/Supply Chain,10,2,0,Yes,2.8,Bachelors,96500,5500,3 - Ambivalent,,Yes
+2/25/2026 11:49:39,Collins Aerospace,Cedar Rpaids,P5,Engineering,19,16,0,Yes,3.12,Bachelors,171000,19000,4 - Happy,AIP was half because got P5 in June 25,Yes
+2/25/2026 11:55:25,Collins Aerospace,Cedar Rapids,P3,Ops,14,6,1,Yes,2.88,Bachelors,103000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/25/2026 11:56:41,Pratt and Whitney,OKC,P1,Engineering,2,0,0,Yes,6,"Bachelors, Masters",82150,13500,4 - Happy,,Yes
+2/25/2026 12:54:47,Raytheon,El segundo ,P2,engineering ,6,7,3,Yes,3.17,Bachelors,108161.64,6883.88,3 - Ambivalent,,Yes
+2/25/2026 13:04:06,Raytheon,El Segundo ,P3,Engineering,6,6,3,Yes,3.32,"Bachelors, Masters",139468,9151,3 - Ambivalent,,Yes
+2/25/2026 13:35:44,Raytheon,Dallas,P2,Engineering,4,3,1,Yes,2.8,Bachelors,91000,5000,2 - Unhappy,,Yes
+2/25/2026 13:39:22,Collins Aerospace,North Carolina,P3,Engineering,7,7,1,Yes,3.5,Bachelors,99360,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/25/2026 13:44:56,Raytheon,Remote,P2,,,,,Yes,5.17,Bachelors,89200,5300,4 - Happy,,Yes
+2/25/2026 13:50:00,Pratt and Whitney,,P5,,10,,,Yes,4,"Bachelors, Masters",180000,30000,4 - Happy,,Yes
+2/25/2026 13:50:02,Pratt and Whitney,"East Hartford, CT",P3,Engineering,11,11,1,Yes,2.72,Masters,102100,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/25/2026 14:10:54,Collins Aerospace,Remote,P3,Engineering,6,6,2,Yes,4.5,Masters,113500,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/25/2026 14:25:29,Collins Aerospace,Remote,P4,Contracts,14,0,0,Yes,2,Masters,136650,0,3 - Ambivalent,4 months in,No - my position is not eligible for a bonus
+2/25/2026 14:30:55,Other (e.g.) corporate,,P2,Engineering,1,1,1,Yes,4.35,"Bachelors, Masters",113000,10000,3 - Ambivalent,,Yes
+2/25/2026 14:40:08,Collins Aerospace,Warner Robins,P3,Field Engineer,11,3,3,Yes,1.8,Associates,125000,7064,2 - Unhappy,,Yes
+2/25/2026 14:40:43,Collins Aerospace,Cedar Rapids,P2,Engineering,3,3,1,Yes,2.75,Bachelors,105000,0,1 - Terrible,,No - my position is not eligible for a bonus
+2/25/2026 15:00:00,Other (e.g.) corporate,Remote,P5,Cyber,20,18,5,Yes,2.97,Bachelors,190500,18300,3 - Ambivalent,,Yes
+2/25/2026 15:15:28,Raytheon,El Segundo,P2,Engineering,6,6,4,Yes,3.42,Bachelors,109943.51,7061.38,3 - Ambivalent,,Yes
+2/25/2026 15:32:44,Other (e.g.) corporate,Remote,P4,DT,21,8,4,Yes,2.95,"Bachelors, Masters",143300,11400,5 - Estatic,,Yes
+2/25/2026 16:29:22,Raytheon,Remote,P3,Compliance,5,3,3,Yes,2.97,"Bachelors, Phd",119000,7000,4 - Happy,,Yes
+2/25/2026 16:33:39,Collins Aerospace,Cedar Rapids,P3,Engineering,6,6,1,Yes,3.18,Bachelors,113500,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/25/2026 16:49:04,Pratt and Whitney,East Hartford,P3,Engineering,10,8,4,Yes,2.95,Bachelors,111500,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/25/2026 17:07:08,Pratt and Whitney,CT,p4,engineering ,7,4,0,Yes,3.5,Bachelors,135000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/25/2026 17:17:07,Raytheon,Remote CA,P3,Engineering,8,5,2,Yes,3.2,Masters,132000,7400,3 - Ambivalent,Was told I got above-average for merit and bonus,Yes
+2/25/2026 17:24:21,Raytheon,Mck,P3,Reliability ,15,15,5,Yes,3.9,Bachelors,108000,6900,3 - Ambivalent,,Yes
+2/25/2026 17:37:45,Collins Aerospace,Melbourne,P3,Engineering,10,7,5,Yes,2.79,Masters,118000,0,1 - Terrible,,No - my position is not eligible for a bonus
+2/25/2026 17:43:41,Collins Aerospace,Cedar Rapids,P5,Engineering,15,15,1,Yes,2.85,Bachelors,169850,35100,3 - Ambivalent,,Yes
+2/25/2026 17:43:51,Collins Aerospace,Remote ,P3,PMO,15,6,2,Yes,2.5,Bachelors,105000,5000,2 - Unhappy,,Yes
+2/25/2026 18:03:14,Raytheon,Remote,P3,Ops/Supply Chain,10,3,3,Yes,3,"Bachelors, Masters",107400,6465,4 - Happy,"Standard raise, good bonus",Yes
+2/25/2026 18:13:15,Raytheon,Tucson,P2,Engineering,7,5,2,Yes,3,Bachelors,97000,5500,2 - Unhappy,,Yes
+2/25/2026 18:19:05,Raytheon,Tucson,P3,Engineering,7,7,4,Yes,5.6,"Bachelors, Masters",124000,7000,4 - Happy,,
+2/25/2026 18:19:16,Raytheon,Louisville,P4,Engineering,17,4,4,Yes,3.9,Bachelors,161000,13881,4 - Happy,,Yes
+2/25/2026 18:33:26,Pratt and Whitney,Remote,P5,Engineering ,9,6,1,Yes,3,,159500,17000,4 - Happy,,Yes
+2/25/2026 18:54:31,Raytheon,DFW,P4,Engineering ,10,6,1,Yes,4,Bachelors,145700,12700,4 - Happy,,Yes
+2/25/2026 19:17:36,Pratt and Whitney,Remote,P3,Engineering,11,9,4,Yes,3.05,Bachelors,112325,0,1 - Terrible,,No - my position is not eligible for a bonus
+2/25/2026 19:38:02,Collins Aerospace,St. Petersburg,P3,Engineering,8,0,0,No - too recent of a hire,0,Masters,110011,0,3 - Ambivalent,,No - too recent of a hire
+2/25/2026 19:38:05,Raytheon,,P5,Engineering,21,10,7,Yes,2.9,Masters,,,2 - Unhappy,,
+2/25/2026 20:08:17,Raytheon,Remote,P3,DT,28,1,1,Yes,4,None,132600,6605,5 - Estatic,,Yes
+2/25/2026 20:10:14,Raytheon,Aurora Colorado,P6,Software engineering,12,6,1,Yes,4,Bachelors,227000,52000,4 - Happy,"I was promoted mid year, so my bonus was prorated. If I had been a P6 all year, my bonus would have been $70-80K",Yes
+2/25/2026 20:26:33,Raytheon,McKinney,P2,Engineering,3,3,2,Yes,3.45,Bachelors,91500,5100,3 - Ambivalent,,Yes
+2/25/2026 20:40:01,Other (e.g.) corporate,Farmington,P4,ES,12,10,2,Yes,2.84,Masters,4300,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/25/2026 20:49:46,Raytheon,El Segundo,P3,Engineering,7,7,4,Yes,5.5,"Bachelors, Masters",140000,10000,4 - Happy,,Yes
+2/25/2026 20:55:01,Collins Aerospace,Burnsville,P3,,5,5,0,Yes,4.3,Bachelors,113000,,,,No - my position is not eligible for a bonus
+2/25/2026 21:05:02,Raytheon,remote,P3,finance,5,5,1,Yes,3.5,Masters,120,8000,4 - Happy,,Yes
+2/25/2026 21:21:59,Raytheon,Boston Area,P4,Engineering,18,18,5,Yes,2.8,Bachelors,190000,15000,3 - Ambivalent,,Yes
+2/25/2026 21:46:03,Collins Aerospace,Cedar Rapid,P3,Engineering,7,5,1,Yes,4,Bachelors,115000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/25/2026 22:09:14,Collins Aerospace,Cedar rapids,P4,Engineering,18,9,3,Yes,3.4,"Bachelors, Masters",157891,0,4 - Happy,,No - my position is not eligible for a bonus
+2/25/2026 22:10:08,Raytheon,Aurora,P1,Engineering,2,2,2,Yes,3,Bachelors,88000,5200,1 - Terrible,,Yes
+2/25/2026 22:32:36,Raytheon,Tucson,P2,Engineering ,4,4,1,Yes,3.9,Bachelors,95000,6072,4 - Happy,,Yes
+2/25/2026 22:56:30,Raytheon,El Segundo,P4,Engineering,10,10,2,Yes,4.5,"Bachelors, Masters",152882,13000,,,Yes
+2/25/2026 23:47:20,Raytheon,El segundo,P4,Engineering,20,8,4,Yes,2.8,Masters,185000,13500,2 - Unhappy,,Yes
+2/26/2026 5:08:56,Raytheon,Tucson,P3,Ops,9,8,1,Yes,5.6,Bachelors,112000,7000,4 - Happy,,Yes
+2/26/2026 5:24:02,Pratt and Whitney,West Palm Beach,P2,Engineering,3,3,0,Yes,2.99,Bachelors,96600,0,3 - Ambivalent,Does not offset the absurd cost of living in South Florida,No - my position is not eligible for a bonus
+2/26/2026 5:28:12,Raytheon,,P6,Engineering ,23,22,2,Yes,3,Bachelors,214000,60000,4 - Happy,,Yes
+2/26/2026 6:43:50,Pratt and Whitney,East Hartford,P2,Engineering,3,3,1,Yes,3.26,Bachelors,97400,0,4 - Happy,,No - my position is not eligible for a bonus
+2/26/2026 7:56:32,Raytheon,California,M6,Engineering,15,15,2,Yes,4,Bachelors,270000,80000,5 - Estatic,,Yes
+2/26/2026 8:01:20,Raytheon,Tucson,P1,Engineering,3,2,2,Yes,3.35,Bachelors,83000,5100,2 - Unhappy,,Yes
+2/26/2026 8:08:45,Collins Aerospace,remote,p4,Finance,10,4,1,Yes,3,Bachelors,119000,16000,5 - Estatic,"Grandfathered bonus, just never seen it this big",Yes
+2/26/2026 8:10:30,Other (e.g.) corporate,Remote,P6,DT,20,20,4,Yes,3.5,"Bachelors, Masters",207000,65000,4 - Happy,,Yes
+2/26/2026 8:35:32,Raytheon,andover,P1,engineering,0,0,0,Yes,2.6,Bachelors,81000,2200,2 - Unhappy,,Yes
+2/26/2026 9:25:31,Collins Aerospace,North Carolina ,P3,Engineering ,5,3,2,Yes,3,Bachelors,118500,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/26/2026 9:26:12,Pratt and Whitney,CA,P3,Sustainment ,11,1,1,Yes,3.45,Bachelors,121906,13763.77,4 - Happy,,Yes
+2/26/2026 9:28:43,Collins Aerospace,Richardson,P4,Engineering,13,0,0,Yes,2.9,"Bachelors, Masters",4000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/26/2026 9:56:22,Raytheon,Remote,P4,Engineering,15,15,4,Yes,2.55,"Bachelors, Masters",4000,12000,2 - Unhappy,"Satisfied with the bonus, unsatisfied with the merit.",Yes
+2/26/2026 9:57:43,Raytheon,Tucson,P1,Engineering ,0,0,0,No - too recent of a hire,,Bachelors,87000,,,,No - too recent of a hire
+2/26/2026 10:10:30,Raytheon,Remote,P3,Engineering,8,8,2,Yes,3.8,Bachelors,121000,9145,4 - Happy,,Yes
+2/26/2026 10:27:40,Raytheon,Marlborough,P1,Engineering,3,3,3,Yes,3,Bachelors,87604,5171,3 - Ambivalent,,Yes
+2/26/2026 10:29:54,Pratt and Whitney,North Berwick,P2,Engineering,2,2,2,Yes,2.67,Bachelors,92400,9500,3 - Ambivalent,,Yes
+2/26/2026 10:45:29,Raytheon,Tucson,P5,Engineering ,20,16,4,Yes,3.25,Masters,159000,12700,4 - Happy,,Yes
+2/26/2026 10:46:47,Pratt and Whitney,"Middletown, CT",P4,Engineering,11,11,1,Yes,3.05,"Bachelors, Masters",135000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/26/2026 10:53:40,Collins Aerospace,Cedar Rapids,P2,Engineering,2,2,1,Yes,3.1,"Bachelors, Masters",97800,0,4 - Happy,,No - my position is not eligible for a bonus
+2/26/2026 11:11:10,Raytheon,Remote,P5,Supply Chain,14,2,0,Yes,3,Bachelors,173000,12600,4 - Happy,,Yes
+2/26/2026 11:11:47,Collins Aerospace,Cedar Rapids,P2,Engineering,1,1,1,Yes,3.1,"Bachelors, Masters",102069,0,4 - Happy,,No - my position is not eligible for a bonus
+2/26/2026 11:25:12,Raytheon,Remote,P2,Engineering ,8,8,4,Yes,2.65,Bachelors,97253.49,5319.98,2 - Unhappy,,Yes
+2/26/2026 11:38:22,Collins Aerospace,California ,P5,Engineering,15,15,1,Yes,3,"Bachelors, Masters",174832,45000,5 - Estatic,,Yes
+2/26/2026 11:45:33,Other (e.g.) corporate,North Texas,P7,DT,45,23,4,Yes,2.31,"Bachelors, Masters",252500,82000,4 - Happy,,Yes
+2/26/2026 12:08:20,Raytheon,Remote,M5,ES,30,20,5,Yes,2.75,"Bachelors, Masters",179000,15000,2 - Unhappy,,Yes
+2/26/2026 12:39:05,Raytheon,Huntsville,P1,Engineering,2,0,0,Yes,2,Bachelors,87720,0,3 - Ambivalent,I don’t know how I feel.,No - too recent of a hire
+2/26/2026 12:55:33,Collins Aerospace,WLOX,P3,Engineering,6,4,1,Yes,3,Bachelors,107120,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/26/2026 13:06:34,Collins Aerospace,Marlboro,P2,Engineering,5,2,2,Yes,3.5,"Bachelors, Masters",112000,6500,4 - Happy,,Yes
+2/26/2026 13:08:20,Collins Aerospace,Cedar Rapids,P3,Engineering,8,8,2,Yes,3.4,Bachelors,126148,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/26/2026 13:13:18,Pratt and Whitney,East Hartford,P2,Wngineering,3,3,3,Yes,2.78,Masters,92500,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/26/2026 13:38:19,Raytheon,San Diego,P5,Engineering,20,,,,3,Phd,175000,17000,3 - Ambivalent,,Yes
+2/26/2026 13:42:01,Pratt and Whitney,East Hartford,P3,Engineering,5,4,2,Yes,3.46,"Bachelors, Masters",115000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/26/2026 13:48:13,Pratt and Whitney,East Hartford ,P4,Engineering ,15,4,4,Yes,5,Masters,140370,,4 - Happy,Had to force their hand with a offer from another company.  ,No - my position is not eligible for a bonus
+2/26/2026 13:49:58,Raytheon,El Segundo,P5,Engineering,27,27,3,Yes,2,Bachelors,195000,15500,3 - Ambivalent,,Yes
+2/26/2026 14:03:12,Pratt and Whitney,"East Hartford, CT (Remote)",P4,GSC,23,9,2,Yes,3,"Bachelors, Masters",134800,0,3 - Ambivalent,time to move on. Keep saying it year after year,No - my position is not eligible for a bonus
+2/26/2026 14:19:29,Pratt and Whitney,East hartford,P4,Engineering,9,9,2,Yes,3.23,Bachelors,137550,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/26/2026 14:30:10,Raytheon,Remote,P3,Engineering,6,1,1,Yes,4,Phd,124800,5100,4 - Happy,,Yes
+2/26/2026 15:00:54,Pratt and Whitney,East Hartford,P6,Commercial,17,12,6,Yes,3,"Bachelors, Masters",211000,60000,4 - Happy,,Yes
+2/26/2026 15:35:16,Pratt and Whitney,East Hartford ,P2,,1,1,1,Yes,2.97,"Bachelors, Masters",93500,0,2 - Unhappy,,No - too recent of a hire
+2/26/2026 16:40:52,Raytheon,Andover,P4,Engineering,5,5,2,Yes,3,Bachelors,160000,13000,4 - Happy,,Yes
+2/26/2026 17:18:17,Pratt and Whitney,East Hartford,P3,IT,8,1,1,No - too recent of a hire,0,Bachelors,115000,,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/26/2026 17:30:43,Raytheon,Tucson,T5,Engineering ,13,7,2,Yes,3.5,None,91000,4000,4 - Happy,,Yes
+2/26/2026 17:31:11,Other (e.g.) corporate,Remote,P3,Enterprice Services,12,12,4,Yes,4.75,Bachelors,125700,7900,4 - Happy,,Yes
+2/26/2026 17:41:38,Collins Aerospace,Remote,M5,Finance,8,8,1,Yes,0.04,Bachelors,156000,12776,4 - Happy,Promo in August,Yes
+2/26/2026 18:11:35,Raytheon,Tewksbury,P4,PMO,13,11,5,Yes,2.98,Masters,158949.63,11613.29,2 - Unhappy,,Yes
+2/26/2026 18:24:53,Raytheon,Woburn,M5,Engineering,13,13,4,Yes,4.45,"Bachelors, Masters",193477,20272,5 - Estatic,,Yes
+2/26/2026 18:35:18,Raytheon,McKinney,P2,Engineering,6,3,3,Yes,2.3,Bachelors,108000,4800,3 - Ambivalent,Hello from McKinney,Yes
+2/26/2026 18:35:24,Raytheon,Tucson,P3,Engineering,7,7,2,Yes,5,Bachelors,102000,6250,3 - Ambivalent,,Yes
+2/26/2026 18:40:11,Raytheon,Tucson,P3,Engineering,9,8,2,Yes,3,"Bachelors, Masters",121000,10660,4 - Happy,"Bonus was great, raise was fine",Yes
+2/26/2026 19:09:09,Raytheon,Remote,M5,OSCQ,19,7,2,Yes,4,"Bachelors, Masters, Multiple Grad Certs",143000,15000,3 - Ambivalent,,Yes
+2/26/2026 19:27:16,Raytheon,McKinney ,P4,Engineering ,7,7,2,Yes,3.25,"Bachelors, Phd",150000,12000,4 - Happy,,Yes
+2/26/2026 19:40:23,Collins Aerospace,Remote,P3,Security,3,3,1,Yes,4,Bachelors,114400,0,4 - Happy,,No - my position is not eligible for a bonus
+2/26/2026 19:45:06,Raytheon,Dulles,P2,Engineering,4,1,1,Yes,2.7,Bachelors,102700,4600,4 - Happy,,Yes
+2/26/2026 19:56:52,Raytheon,CA,P4,Engineering ,15,4,4,Yes,2.6,Masters,161000,11900,3 - Ambivalent,,Yes
+2/26/2026 20:02:21,Raytheon,Tucson,P3,Engineering,11,9,4,Yes,4.25,Masters,120000,7700,4 - Happy,,Yes
+2/26/2026 20:13:52,Raytheon,Tucson,M5,Engineering,19,2,1,Yes,3.3,"Bachelors, Masters",210000,22000,4 - Happy,,Yes
+2/26/2026 20:19:19,Raytheon,Southeast,P5,Engineering,14,4,1,Yes,3.3,"Bachelors, Masters",186000,17000,4 - Happy,,Yes
+2/26/2026 20:33:21,Pratt and Whitney,West palm beach,P3,Process Engineering ,3,3,0,Yes,3,"Bachelors, Masters",108000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/26/2026 21:49:01,Collins Aerospace,Remote,P4,DT,14,8,4,Yes,3,Masters,161452,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/26/2026 21:55:08,Collins Aerospace,Richardson,P3,Engineering,5,4,1,Yes,2.8,"Bachelors, Masters",114500,2876,3 - Ambivalent,,Yes
+2/26/2026 22:12:37,Raytheon,Tucson,P3,Engineering,8,8,4,Yes,3.1,"Bachelors, Masters",123000,7000,3 - Ambivalent,,Yes
+2/26/2026 23:09:31,Collins Aerospace,Remote,P2,Engineering ,4,2,2,Yes,3.5,Bachelors,112000,7000,3 - Ambivalent,,Yes
+2/26/2026 23:09:48,Raytheon,Remote,P3,Engineering,4,4,2,Yes,3,"Bachelors, Masters",126420,7462,2 - Unhappy,,Yes
+2/27/2026 3:37:37,Pratt and Whitney,"East Hartford, CT",P4,Engineering,14,9,1,Yes,2.98,Bachelors,134500,0,2 - Unhappy,"Was told i was exceeding expectations, but didn’t even get 3%",No - my position is not eligible for a bonus
+2/27/2026 4:02:14,Raytheon,Woburn,P4,Engineering,8,3,1,Yes,3.2,"Bachelors, Masters",144000,9800,4 - Happy,,Yes
+2/27/2026 4:51:26,Pratt and Whitney,East Hartford,P4,Engineer,10,10,3,Yes,3.1,Bachelors,129100,0,,,No - my position is not eligible for a bonus
+2/27/2026 5:07:04,Raytheon,Andover ,P3,Engineering,15,3,2,Yes,3.1,None,119393,6600,3 - Ambivalent,,Yes
+2/27/2026 5:22:35,Pratt and Whitney,Remote,P2,Engineering,3,3,2,Yes,3,Bachelors,94400,0,4 - Happy,,No - my position is not eligible for a bonus
+2/27/2026 5:36:12,Collins Aerospace,,P4,Engineering,5,4,2,Yes,3,Bachelors,151000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/27/2026 6:14:14,Collins Aerospace,WLOX,P3,Quality,4,4,1,Yes,2.97,"Bachelors, Masters",103940,,2 - Unhappy,,No - my position is not eligible for a bonus
+2/27/2026 6:15:44,Raytheon,Aurora,P4,Engineering,12,3,3,Yes,3.1,"Bachelors, Masters",189382,14099,4 - Happy,,Yes
+2/27/2026 6:42:46,Collins Aerospace,Cedar Rapids,P3,Engineering,5,4,1,Yes,5.07,Bachelors,125000,0,5 - Estatic,,No - my position is not eligible for a bonus
+2/27/2026 6:49:40,Raytheon,Remote,P3,Finance,7,3,3,Yes,3,"Bachelors, Masters",103457,6116,3 - Ambivalent,,Yes
+2/27/2026 6:52:44,Pratt and Whitney,Remote,M5,Supply Chain,10,10,2,Yes,3.3,"Bachelors, Masters",167000,25000,5 - Estatic,,Yes
+2/27/2026 7:05:47,Pratt and Whitney,Ct,P4,Supply Chain - PMO,8,8,2,Yes,4,"Bachelors, Masters",122000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/27/2026 7:26:18,Collins Aerospace,Remote,P4,ENGINEERING,12,2,2,Yes,3.61,Bachelors,159000,0,1 - Terrible,,No - my position is not eligible for a bonus
+2/27/2026 7:29:10,Collins Aerospace,Remote,P3,Engineering,7,6,3,Yes,3.01,Bachelors,121550,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 7:32:06,Collins Aerospace,"Melbourne, FL",P5,Engineering,21,13,4,Yes,3,Bachelors,181425,37782,2 - Unhappy,"I'm happy with the bonus, but would have preferred a higher merit increase instead",Yes
+2/27/2026 7:32:38,Raytheon,Richardson,P3,Engineering ,31,31,17,Yes,3,Bachelors,158318,9345,3 - Ambivalent,,Yes
+2/27/2026 8:18:37,Collins Aerospace,Windsor Locks,P4,Engineering,10,5,1,Yes,3.14,Bachelors,128300,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 8:33:15,Raytheon,Tucson,P5,PMO,8,8,0,Yes,3,"Bachelors, Masters",169450,12450,4 - Happy,,Yes
+2/27/2026 8:34:29,Raytheon,Tucson,P3,Engineering,5,5,2,Yes,3.2,"Bachelors, Masters",114646.49,7294.72,4 - Happy,,Yes
+2/27/2026 8:36:34,Raytheon,Tucson,P2,Configuration Management,7,3,3,Yes,2.4,Bachelors,80530,4064,3 - Ambivalent,,Yes
+2/27/2026 8:38:11,Raytheon,Tucson,P3,Engineering ,5,5,0,Yes,5,Bachelors,111825,5827.68,4 - Happy,,Yes
+2/27/2026 13:43:53,Raytheon,Tucson,P4,Engineering,22,22,4,Yes,3.1,"Bachelors, Masters",158073,12001,3 - Ambivalent,,Yes
+2/27/2026 8:45:53,Raytheon,Tucson,P3,Finance,6,5,1,Yes,4.75,Masters,4408.55,6320.09,5 - Estatic,,Yes
+2/27/2026 8:47:00,Other (e.g.) corporate,Remote,P4,Facilities ,31,21,9,Yes,3,Bachelors,141000,11000,4 - Happy,,Yes
+2/27/2026 8:55:44,Pratt and Whitney,Longueuil ,P5,Customer Service,13,4,0,Yes,3,Masters,143000,20732,3 - Ambivalent,,Yes
+2/27/2026 9:05:48,Pratt and Whitney,Remote,P5,Engineering,11,11,0,Yes,3,"Bachelors, Masters",164800,1300,4 - Happy,Prorated bonus,Yes
+2/27/2026 9:05:57,Raytheon,Remote,P3,Engineering,6,6,1,Yes,3.1,"Bachelors, Masters",102500,5100,2 - Unhappy,,Yes
+2/27/2026 9:11:13,Raytheon,,P3,Engineering,10,3,3,Yes,2.7,Bachelors,137000,7000,2 - Unhappy,,Yes
+2/27/2026 9:18:22,Pratt and Whitney,East Hartford ,P3,Finance,14,5,4,Yes,2.65,Bachelors,100000,0,1 - Terrible,,No - my position is not eligible for a bonus
+2/27/2026 9:49:48,Pratt and Whitney,East Hartford,P1,Business Systems & Transformation ,0,0,0,No - too recent of a hire,,Bachelors,,0,3 - Ambivalent,Intern to full time converted December. Total time with RTX is 9 months. 2 months as FTE which may mean I am eligible for the wage increase this year. Not too sure. ,No - my position is not eligible for a bonus
+2/27/2026 9:56:00,Collins Aerospace,No Comment,M/P7,Engineering,20,20,5,Yes,3,"Bachelors, Masters",250000,85000,4 - Happy,50k RSUs,Yes
+2/27/2026 9:59:57,Pratt and Whitney,CT,M5,Programs,18,11,3,Yes,5,Bachelors,167274,28841,5 - Estatic,A2 for LDR,Yes
+2/27/2026 10:16:18,Raytheon,Tucson,P4,Engineering,20,8,2,Yes,3,Masters,150000,10000,3 - Ambivalent,,Yes
+2/27/2026 10:21:05,Raytheon,Remote (Expat),P4,Ops,9,2,2,Yes,1.5,"Bachelors, Masters",137329.5,7712,3 - Ambivalent,"Expat Annual Bonus$10,000, Annual AIP Bonus $7,712.10",Yes
+2/27/2026 10:22:27,Collins Aerospace,Remote,P6,DT,11,11,1,Yes,3,"Bachelors, Masters",200000,45000,4 - Happy,,Yes
+2/27/2026 11:31:28,Collins Aerospace,Houston,P5,Engineering,11,7,0,Yes,3,Bachelors,206000,24224,4 - Happy,"Promoted May 2025, bonus prorated",Yes
+2/27/2026 11:31:31,Raytheon,Tucson,P4,Ops,8,4,1,Yes,5,Bachelors,126000,8972,4 - Happy,,Yes
+2/27/2026 11:34:49,Raytheon,Remote,M5,Ops,9,6,1,Yes,3.2,Bachelors,185000,16999,5 - Estatic,,Yes
+2/27/2026 11:38:02,Other (e.g.) corporate,Remote ,P6,,18,6,2,Yes,2.98,Masters,211100,66000,3 - Ambivalent,,Yes
+2/27/2026 11:39:09,Raytheon,Virginia,P5,,13,3,1,Yes,3,"Bachelors, Masters",194000,16000,4 - Happy,,Yes
+2/27/2026 11:39:31,Collins Aerospace,,P5,Ops,14,,4,"No - received a promotion ""inclusive og merit""",,Masters,150000,30000,4 - Happy,,Yes
+2/27/2026 11:40:33,Raytheon,Andover,P1,Engineering,2,2,2,Yes,4.5,Bachelors,86300,5900,3 - Ambivalent,,Yes
+2/27/2026 11:42:28,Raytheon,California,P2,Engineering,3,3,1,Yes,3,Bachelors,107120,6300,3 - Ambivalent,Leaving company for 30+ % salary increase,Yes
+2/27/2026 11:45:51,Raytheon,Virginia ,M5,Engineering ,7,4,0,Yes,3.7,Phd,192000,18000,5 - Estatic,,Yes
+2/27/2026 11:47:53,Pratt and Whitney,Asheville,P3,Quality,9,4,4,Yes,4,Bachelors,107000,12000,4 - Happy,,Yes
+2/27/2026 11:47:58,Collins Aerospace,Windsor locks,P5,Engineer ,20,10,4,Yes,3,Bachelors,206000,43000,3 - Ambivalent,,Yes
+2/27/2026 11:52:56,Pratt and Whitney,East Hartford ,P4,Engineering,8,3,0,Yes,3,"Bachelors, Masters",136000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/27/2026 11:59:31,Raytheon,Mississippi (Remote),P5,Engineering,50,23,13,Yes,2.95,None,215609,19101,3 - Ambivalent,The promotion and hiring system is so broken.  There is no opportunity to grow here.  ,Yes
+2/27/2026 12:04:40,Pratt and Whitney,East Hartford,P5,Sustainment,11,6,0,Yes,3.35,Bachelors,137450.5,1649.2,3 - Ambivalent,"They shifted the P5 band to 132,400 after I was promoted to P5 with base 133000 -_-",Pro-rated AIP (December promotion)
+2/27/2026 12:15:29,Collins Aerospace,Rockford,P3,Demand Management,10,9,3,Yes,3,Bachelors,95071,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 12:37:49,Pratt and Whitney,East Hartford,P6,Engineering,25,25,3,Yes,3.2,Bachelors,188000,40000,4 - Happy,,Yes
+2/27/2026 12:40:50,Collins Aerospace,Cedar Rapids,P4,Engineering,20,20,2,Yes,3.7,Bachelors,153000,0,3 - Ambivalent,Band penetration % decreased. Everyone who doesn't get a bonus gets screwed.,No - my position is not eligible for a bonus
+2/27/2026 12:49:56,Raytheon,Remote,M6,Digital Technology ,18,18,3,Yes,3.1,Bachelors,,64000,5 - Estatic,,Yes
+2/27/2026 12:53:17,Raytheon,Massachusetts,P2,Engineering,3,3,1,Yes,3,Bachelors,103000,5700,4 - Happy,,Yes
+2/27/2026 13:01:28,Collins Aerospace,Burnsville ,P4,Engineering,35,7,3,Yes,3,Bachelors,153725,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 13:04:28,Collins Aerospace,Cedar Rapids,P3,Engineering,7,5,1,Yes,3.42,"Bachelors, Masters",121000,0,4 - Happy,,No - my position is not eligible for a bonus
+2/27/2026 13:18:05,Raytheon,Tucson,P2,Engineering,2,2,2,Yes,3,Masters,102419,5441,3 - Ambivalent,,Yes
+2/27/2026 13:40:42,Raytheon,Tucson,P3,Engineering,10,3,0,"No - received a promotion ""inclusive og merit""",,"Bachelors, Masters",138000,5500,4 - Happy,,Yes
+2/27/2026 13:44:52,Raytheon,Remote,P5,LCC,22,20,1,Yes,2.94,Bachelors,156000,13700,3 - Ambivalent,,Yes
+2/27/2026 13:45:08,Collins Aerospace,Winston Salem,P3,Engineering,10,4,2,Yes,3,Bachelors,120000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/27/2026 13:49:55,Collins Aerospace,,P6,Engineering,20,20,2,Yes,3.36,"Bachelors, Masters",197000,57000,4 - Happy,,Yes
+2/27/2026 14:26:36,Other (e.g.) corporate,Rhode Island,P2,Engineering,3,3,1,Yes,4.6,Bachelors,111700,6400,3 - Ambivalent,,Yes
+2/27/2026 14:31:27,Pratt and Whitney,DFW,P4,Strategy,5,5,0,"No - received a promotion ""inclusive og merit""",0,"Bachelors, Masters",115000,11500,3 - Ambivalent,,Yes
+2/27/2026 14:48:56,Raytheon,Aurora,P2,Engineering ,4,3,1,Yes,5.5,Bachelors,97700,7500,4 - Happy,,Yes
+2/27/2026 15:19:27,Raytheon,"Richardson, TX",m5,engineering,16,7,2,Yes,3.4,Bachelors,188000,16600,4 - Happy,,Yes
+2/27/2026 15:22:15,Other (e.g.) corporate,CT - Remote,M6,DT,11,11,4,Yes,4.95,"Bachelors, Masters",227000,70000,5 - Estatic,,Yes
+2/27/2026 15:27:49,Other (e.g.) corporate,,,,,,,,,,,,,,
+2/27/2026 17:16:12,Collins Aerospace,Rockford ,P2,Engineering,4,4,1,Yes,2.5,Bachelors,102000,5900,4 - Happy,,Yes
+2/27/2026 17:23:30,Pratt and Whitney,North Berwick,P3,Engineering,4,4,1,Yes,2.8,"Bachelors, Masters",106300,11500,4 - Happy,,Yes
+2/27/2026 17:24:20,Raytheon,Tucson,P3,Engineering,5,3,0,Yes,3.3,"Bachelors, Masters",109840,7757,4 - Happy,Had a midyear promotion also,Yes
+2/27/2026 17:25:26,Pratt and Whitney,East Hartford,P4,Engineering,10,6,3,Yes,3.21,"Bachelors, Phd",143150,0,4 - Happy,,No - my position is not eligible for a bonus
+2/27/2026 17:28:06,Raytheon,Andover,P2,Engineering,3,3,0,"No - received a promotion ""inclusive og merit""",3,Bachelors,110000,6530,5 - Estatic,I was favored by the stakeholders,Yes
+2/27/2026 17:45:18,Pratt and Whitney,WPB,T5,Dev/Ops,11,0,0,No - too recent of a hire,0,Associates,88000,0,3 - Ambivalent,,No - too recent of a hire
+2/27/2026 17:57:21,Raytheon,Tucson,P3,Engineering ,8,5,3,Yes,6,Bachelors,123000,9100,4 - Happy,,Yes
+2/27/2026 17:57:37,Raytheon,Remote,P3,EHS,8,3,3,Yes,3,"Bachelors, Masters",110068,5343.13,3 - Ambivalent,,Yes
+2/27/2026 18:39:47,Pratt and Whitney,East Hartford,P4,Engineering,4,4,1,Yes,3.57,Phd,138000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 18:55:06,Collins Aerospace,Atlanta ,P1,integrated product support analyst,1,0,0,Yes,3.5,Bachelors,62100,0,3 - Ambivalent,Join the company in September 2025 and made the cut for a merit increased.  ,No - my position is not eligible for a bonus
+2/27/2026 18:56:39,Pratt and Whitney,Not CT,don't actually know,QA,27,22,8,Yes,3.7,"Bachelors, Masters",93000,7800,3 - Ambivalent,,Yes
+2/27/2026 19:09:26,Collins Aerospace,Remote,P4,DT,10,2,2,Yes,3.25,Bachelors,145000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 19:30:50,Raytheon,McKinney,P4,Ops/Supply Chain,15,8,1,Yes,3.1,Masters,128000,8700,4 - Happy,"Great team, hard to get above 3% merit. ",Yes
+2/27/2026 19:36:49,Raytheon,Tucson,P2,Engineering,3,3,3,Yes,4,"Bachelors, Masters",97400,6100,4 - Happy,,Yes
+2/27/2026 19:55:44,Pratt and Whitney,Oklahoma City,P2,Engineering,2,2,0,Yes,3,Bachelors,91000,10000,4 - Happy,,Yes
+2/27/2026 20:02:53,Collins Aerospace,Cedar Rapids,P1,Engineering,0,0,0,Yes,3.04,Bachelors,95000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 20:09:57,Raytheon,Tucson,P3,Engineering,2,2,2,Yes,2.5,"Bachelors, Masters, Phd",140000,8000,4 - Happy,,Yes
+2/27/2026 20:11:52,Pratt and Whitney,East Hartford,M4,Engineering,11,9,3,Yes,3,"Bachelors, Masters",133900,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 20:24:23,Raytheon,Tucson,P5,Ops/Supply Chain,25,20,8,Yes,4,Bachelors,205000,18000,4 - Happy,,Yes
+2/27/2026 20:29:04,Raytheon,El Segundo,P2,Engineering,4,4,4,Yes,3.15,"Bachelors, Masters",121018,6990,4 - Happy,,Yes
+2/27/2026 20:40:59,Other (e.g.) corporate,Remote,,Digital Technology,1,0,0,Yes,3.6,Bachelors,87000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 20:45:41,Raytheon,Andover,P5,Engineering,24,24,1,Yes,2.85,"Bachelors, Masters",190272,16343.42,3 - Ambivalent,"Feels like the merit increase was shaved to support other department raises despite good performance feedback. This was ""made up for"" with the bonus at 147%",Yes
+2/27/2026 20:54:55,Pratt and Whitney,East Hartford,P4,Sustainment,9,9,1,Yes,4.5,Bachelors,127000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/27/2026 21:18:37,Collins Aerospace,Marlboro ,P3,Supply Chain,5,5,2,Yes,2.75,Masters,98765,3200,2 - Unhappy,,Yes
+2/27/2026 21:50:47,Raytheon,Tucson,P3,Engineering ,6,5,3,Yes,2.8,"Bachelors, Masters",120000,7100,2 - Unhappy,,Yes
+2/27/2026 22:32:44,Raytheon,Tucson,M5,Engineering,23,11,2,Yes,3.3,Bachelors,186500,18560,4 - Happy,,Yes
+2/27/2026 23:01:07,Collins Aerospace,Illinois,P3,Supply Chain,7,7,1,Yes,3.25,"Bachelors, Masters",85000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+2/27/2026 23:04:01,Raytheon,Tucson,P3,QMA,12,8,8,Yes,3,Bachelors,116000,6470,3 - Ambivalent,,Yes
+2/27/2026 23:39:48,Collins Aerospace,Melbourne ,P3,Engineering,7,8,2,Yes,3.5,"Bachelors, Masters",125800,0,4 - Happy,,No - my position is not eligible for a bonus
+2/28/2026 2:00:50,Raytheon,Tucson,P4,Engineering,11,11,2,Yes,2.7,"Bachelors, Masters",165000,12000,2 - Unhappy,,Yes
+2/28/2026 4:49:48,Raytheon,Andover,P3,Engineering ,4,4,2,Yes,3.7,Masters,116000,7000,3 - Ambivalent,Compared to peers at other companies making a fair amount less,Yes
+2/28/2026 5:10:40,Raytheon,McKinney ,M4,Finance,9,9,2,Yes,3.2,"Bachelors, Masters",134000,0,4 - Happy,,
+2/28/2026 5:33:30,Other (e.g.) corporate,Remote,m5,Finance,12,10,1,Yes,3.71,Bachelors,129700,24000,5 - Estatic,,Yes
+2/28/2026 6:53:14,Raytheon,Woburn,P4,Engineering ,20,20,3,Yes,2.7,Bachelors,154000,11000,2 - Unhappy,,Yes
+2/28/2026 7:06:02,Raytheon,Tewksbury,P4,Engineering,8,8,0,Yes,2.9,"Bachelors, Masters",144880,9153,3 - Ambivalent,Received off-cycle promotion with raise in recent years,Yes
+2/28/2026 7:10:43,Raytheon,Tewksbury,P2,Engineering,6,3,3,Yes,2,"Bachelors, Masters",93800,2200,1 - Terrible,"I feel like getting robbed, P2 with 6YOE, bachelors and masters. Had a bad merit because there is favoritism in the group towards other people and my goals didn't align with the group. ",Yes
+2/28/2026 7:25:22,Raytheon,Tucson,P3,Engineering,5,5,0,"No - received a promotion ""inclusive og merit""",0,Bachelors,125000,6000,5 - Estatic,,Yes
+2/28/2026 8:39:01,Pratt and Whitney,East Hartford,P2,Engineering,3,3,1,Yes,3.53,Bachelors,91500,0,4 - Happy,,No - my position is not eligible for a bonus
+2/28/2026 9:24:06,Raytheon,Tewksbury,P2,Engineering,2,2,0,Yes,2.5,Bachelors,110000,0,4 - Happy,,No - too recent of a hire
+2/28/2026 9:44:22,Raytheon,El Segundo,P2,Engineering,3,3,1,Yes,4.2,Bachelors,101000,6800,3 - Ambivalent,,Yes
+2/28/2026 10:07:38,Raytheon,Remote,P3,DT,3,3,1,Yes,2,Bachelors,132600,3500,4 - Happy,,Yes
+2/28/2026 10:19:16,Raytheon,Tucson,P3,Engineering,6,0,0,Yes,1.5,"Bachelors, Masters",126875,0,3 - Ambivalent,,No - too recent of a hire
+2/28/2026 11:06:07,Other (e.g.) corporate,Remote,P4,Communications,12,11,3,Yes,3.22,Masters,131000,10500,3 - Ambivalent,,Yes
+2/28/2026 11:14:47,Raytheon,MA,P2,Engineering ,5,5,3,Yes,3.5,Bachelors,96700,6300,3 - Ambivalent,,Yes
+2/28/2026 11:17:13,Raytheon,Remote,M6,Not Engineering and not OSCQ,27,12,2,Yes,2.7,Masters,189000,54000,3 - Ambivalent,20% AIP makes another low merit pool this year bearable,Yes
+2/28/2026 11:17:46,Raytheon,Remote,P4,Engineering ,20,2,2,Yes,2.75,Bachelors,154200,10000,1 - Terrible,,Yes
+2/28/2026 11:21:14,Raytheon,Tucson,P4,Engineering,15,10,3,Yes,2.7,Phd,175000,12500,3 - Ambivalent,,Yes
+2/28/2026 11:56:11,Raytheon,El Segundo,P5,SW Engineering,26,9,9,Yes,2.81,"Bachelors, Masters",233790.81,20738.96,3 - Ambivalent,"The raise itself is under what my section manager said was target (2.85), which is somewhat expected given I'm past the midband of my bracket.  It doesn't take away from the fact that it does not keep up with LA's inflation (over 3%).  After nearly 10 years of busting my butt, it's become clear they are intentionally blocking me from the things I need to advance to P6 (program politics).",Yes
+2/28/2026 12:00:26,Raytheon,Tucson,P3,Engineerinf,10,2,2,Yes,2.8,Bachelors,129858,6975,4 - Happy,,Yes
+2/28/2026 12:40:34,Collins Aerospace,Richardson,P3,Engineering,7,1,2,Yes,4,Bachelors,135200,0,3 - Ambivalent,Fortnite balls,No - my position is not eligible for a bonus
+2/28/2026 13:28:41,Raytheon,Tewksbury,P3,Engineering,3,3,1,Yes,4.9,Bachelors,122733,8541,4 - Happy,,Yes
+2/28/2026 13:29:07,Raytheon,Tucson,P3,Engineering,16,4,4,Yes,4.05,Masters,142000,9000,4 - Happy,,Yes
+2/28/2026 13:53:41,Raytheon,Tucson,P2,Engineering,2,2,0,Yes,3.6,Bachelors,95300,6100,4 - Happy,,Yes
+2/28/2026 14:11:56,Raytheon,Massachusetts,M5,Ops,,,,Yes,3,,160000,13000,3 - Ambivalent,,Yes
+2/28/2026 14:57:11,Pratt and Whitney,Middletown ,P2,Engineering ,4,3,2,Yes,3.2,Bachelors,99200,,3 - Ambivalent,,No - my position is not eligible for a bonus
+2/28/2026 15:34:26,Raytheon,Fullerton,P2,Engineering,2,2,0,Yes,3,Bachelors,108400,6150,4 - Happy,Was promoted via external req and got 27% raise + 3% merit = 30% raise,Yes
+2/28/2026 17:46:03,Pratt and Whitney,Remote / East Hartford,P5,Legal,12,7,1,Yes,3,"Masters, Juris Doctorate",148320,21600,4 - Happy,,Yes
+2/28/2026 17:54:34,Raytheon,Tewksbury,P3,Engineering ,6,6,1,Yes,3.2,Masters,119848,8261,3 - Ambivalent,,Yes
+2/28/2026 18:19:32,Other (e.g.) corporate,Remote,P4,Software Dev,21,4,1,Yes,4,Associates,158000,11000,4 - Happy,,Yes
+2/28/2026 18:55:23,Collins Aerospace,Remote ,P3,Engineering ,8,7,3,Yes,3.5,Bachelors,140000,0,2 - Unhappy,The pay for the HCOL area just isn't enough.,No - my position is not eligible for a bonus
+2/28/2026 19:49:26,Raytheon,Andover,P2,DT,5,5,2,Yes,2.8,Bachelors,96500,5560,2 - Unhappy,,Yes
+2/28/2026 19:56:40,Collins Aerospace,Remote/Cedar Rapids,P5,Finance,15,3,3,Yes,3.57,"Bachelors, Masters",145100,30051.45,5 - Estatic,,Yes
+2/28/2026 21:46:57,Pratt and Whitney,,P3,Engineering,7,3,0,Yes,2.99,"Bachelors, Masters",120500,,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/1/2026 3:30:16,Raytheon,TDOA,P1,Engineering,2,2,2,Yes,4.25,Bachelors,86500,4793.33,3 - Ambivalent,,Yes
+3/1/2026 5:39:30,Pratt and Whitney,East Hartford,P5,Operations,22,3,3,Yes,2.94,None,165000,23400,3 - Ambivalent,,Yes
+3/1/2026 6:07:42,Raytheon,McKinney,P5,Engineering,18,18,1,Yes,3.2,Bachelors,167000,17000,3 - Ambivalent,,Yes
+3/1/2026 6:59:31,Collins Aerospace,Winston-Salem,P4,Engineering,15,13,3,Yes,3,Bachelors,149500,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/1/2026 9:28:17,Raytheon,Tewksbury ,P2,Engineering ,3,3,0,Yes,2.5,"Bachelors, Masters",112750,7400,3 - Ambivalent,,Yes
+3/1/2026 10:45:43,Raytheon,Tucson,P3,Engineering ,5,5,0,Yes,4.5,Bachelors,115000,7500,4 - Happy,,Yes
+3/1/2026 12:15:46,Other (e.g.) corporate,Rotational,P1,Ops/Supply Chain,2,1,1,Yes,3,Bachelors,73130,0,4 - Happy,Part of the Ops/Supply Chain LDP program. ,No - my position is not eligible for a bonus
+3/1/2026 12:29:37,Pratt and Whitney,East Hartford,P4,Engineering,13,6,3,Yes,3.42,Bachelors,133000,,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/1/2026 12:53:54,Raytheon,,T4,,7,2,2,Yes,5.5,None,,,5 - Estatic,,Yes
+3/1/2026 13:05:03,Raytheon,MA,P4,Engineering,14,0,0,Yes,2,"Bachelors, Masters",163200,0,4 - Happy,,No - too recent of a hire
+3/1/2026 13:15:51,Raytheon,Remote,P5,Quality ,14,,1,Yes,3.5,"Bachelors, Masters",167000,13500,4 - Happy,,Yes
+3/1/2026 14:28:43,Collins Aerospace,Remote,P2,Ops,15,3,3,Yes,3,Bachelors,80000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/1/2026 14:58:55,Raytheon,Tucson,M5,Engineering,10,10,1,Yes,4,Masters,192400,18500,4 - Happy,,Yes
+3/1/2026 15:14:54,Raytheon,McKinney,P3,Engineering,6,6,1,Yes,3.5,Bachelors,109000,6700,3 - Ambivalent,,Yes
+3/1/2026 15:27:40,Pratt and Whitney,Middletown,P4,Engineering,10,10,3,Yes,4,Bachelors,136000,0,4 - Happy,,No - my position is not eligible for a bonus
+3/1/2026 16:23:43,Raytheon,TDOA,P1,Engineering,2,2,2,Yes,4.25,Bachelors,86500,4793.33,3 - Ambivalent,,Yes
+3/1/2026 16:29:55,Pratt and Whitney,Maine,M2,Operations,4,4,2,Yes,2.85,"Bachelors, Masters",94000,10680,3 - Ambivalent,,Yes
+3/1/2026 16:54:34,Raytheon,Pelham NH ,P3,Engineer,8,6,1,Yes,4.3,Bachelors,127000,8500,2 - Unhappy,,Yes
+3/1/2026 19:58:46,Raytheon,"Andover, MA",M7,PMO,25,20,2,Yes,3.25,"Bachelors, Masters",259000,100000,4 - Happy,,Yes
+3/1/2026 20:17:12,Raytheon,Tewksbury,P3,Engineering,6,6,1,Yes,5,Bachelors,120000,7000,5 - Estatic,,Yes
+3/1/2026 20:38:54,Collins Aerospace,Wlox,P3,Engineering,5,2,2,Yes,4.75,Bachelors,109760,0,4 - Happy,,No - my position is not eligible for a bonus
+3/1/2026 21:44:49,Raytheon,Tucson,P2,Engineering,2,2,0,Yes,3,Bachelors,106090,6800,4 - Happy,,Yes
+3/1/2026 22:48:49,Collins Aerospace,Cedar Rapids,P5,Engineering,35,19,1,Yes,2.84,Bachelors,164584,34329,4 - Happy,,Yes
+3/2/2026 8:29:51,Raytheon,Tucson,P2,Engineering ,4,4,2,Yes,3.3,Bachelors,92500,5400,3 - Ambivalent,,Yes
+3/2/2026 8:47:55,Raytheon,Tucson,P3,supply chain,10,4,0,Yes,3,None,90000,5000,4 - Happy,,Yes
+3/2/2026 8:51:16,Raytheon,Dulles,P3,Engineering,9,4,1,Yes,3.5,None,123300,7300,4 - Happy,,Yes
+3/2/2026 9:03:58,Raytheon,Remote,P3,Software Engineering,14,14,6,Yes,0.04,Bachelors,122700.78,7384.09,4 - Happy,,Yes
+3/2/2026 10:09:21,Raytheon,Tucson,P3,Finance,14,8,8,Yes,3.2,Bachelors,105000,6200,3 - Ambivalent,,Yes
+3/2/2026 10:22:36,Raytheon,Remote,P3,Ops,5,5,2,Yes,5.5,Bachelors,100399,6480,4 - Happy,Low COL remote area,Yes
+3/2/2026 10:24:24,Raytheon,,P5,Engineering,12,12,4,Yes,4,Masters,240000,20000,4 - Happy,,
+3/2/2026 10:28:22,Collins Aerospace,Winston-Salem,M4,Engineering,12,12,1,Yes,3,Bachelors,160000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/2/2026 10:59:08,Collins Aerospace,Remote,P5,Program Management,7,7,1,Yes,4.4,Masters,185000,32000,5 - Estatic,,Yes
+3/2/2026 12:42:05,Raytheon,Massachusetts,P4,Engineering,10,10,3,Yes,2,Bachelors,167000,9400,3 - Ambivalent,,Yes
+3/2/2026 12:43:56,Pratt and Whitney,West Palm Beach,P1,Engineering,0,0,0,No - too recent of a hire,0,Bachelors,81900,0,3 - Ambivalent,,No - too recent of a hire
+3/2/2026 13:17:19,Raytheon,Remote,M4,Program Management,11,8,4,Yes,3.5,Bachelors,159000,15000,4 - Happy,,Yes
+3/2/2026 13:22:47,Raytheon,Tucson,P3,Finance,6,11,2,Yes,2.5,Bachelors,104,5300,3 - Ambivalent,,Yes
+3/2/2026 13:29:06,Raytheon,Andover,P5,Ops,10,3,1,Yes,2.9,Bachelors,165000,12400,5 - Estatic,,Yes
+3/2/2026 15:52:15,Collins Aerospace,,P2,Engineering,4,4,2,Yes,3.5,Bachelors,105000,5800,3 - Ambivalent,,Yes
+3/2/2026 18:45:50,Collins Aerospace,Cedar Rapids,P2,Engineering,2,2,0,Yes,2.75,Bachelors,101209,5814,3 - Ambivalent,,Yes
+3/2/2026 20:37:17,Raytheon,El Segundo,P4,Ops/Supply Chain,6,6,0,Yes,2.5,"Bachelors, Masters",139400,8654,4 - Happy,Applied to new role to earn promotion (and addtl 14% raise) in '25,Yes
+3/2/2026 21:23:52,Pratt and Whitney,East Hartford,P4,OpX,12,8,1,Yes,5.5,Bachelors,129000,,4 - Happy,,No - my position is not eligible for a bonus
+3/2/2026 23:22:17,Raytheon,El segundo,M6,Engineering,24,10,6,Yes,2.8,"Bachelors, Masters",250000,75000,4 - Happy,,Yes
+3/2/2026 23:43:18,Raytheon,Tucson,P2,Engineering,3,3,0,"No - received a promotion ""inclusive og merit""",3.35,Bachelors,102000,5797,5 - Estatic,"Original merit raise was 3.35%, negotiated for a 20% increase in salary after internal offer. P1 to P2",Yes
+3/3/2026 4:12:47,Pratt and Whitney,North Berwick Maine,P3,Engineering,10,9,4,Yes,3.5,Bachelors,109600,12600,3 - Ambivalent,,Yes
+3/3/2026 4:43:38,Pratt and Whitney,CT,P6,,25,18,5,Yes,4,Masters,197000,45000,4 - Happy,,Yes
+3/3/2026 6:40:05,Collins Aerospace,Rockford,P2,Engineering,2,2,2,Yes,2.92,"Bachelors, Masters",98350,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/3/2026 7:39:37,Raytheon,Tewksbury,P4,Engineering,16,16,4,Yes,3.5,Bachelors,164052,12648,4 - Happy,,Yes
+3/3/2026 7:57:28,Pratt and Whitney,East Hartford,P2,Engineering,3,3,3,Yes,3.05,"Bachelors, Masters",94700,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/3/2026 8:51:07,Raytheon,North Texas ,P2,Engineering ,5,5,2,Yes,2.9,Bachelors,92323.15,5400.5,3 - Ambivalent,,Yes
+3/3/2026 9:40:40,Other (e.g.) corporate,"Richardson, Texas",P3,enterprise services,8,5,1,Yes,2.7,"Bachelors, ",98000,6000,3 - Ambivalent,,Yes
+3/3/2026 9:55:59,Pratt and Whitney,East Hartford,P2,Engineering,3,3,1,Yes,3.06,Bachelors,90800,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/3/2026 10:52:00,Collins Aerospace,McKinney,P3,Engineering,8,6,2,Yes,4.17,Bachelors,121500,6750,4 - Happy,Manager agrees I’m due a P4 but I haven’t penetrated the P4 salary range enough yet for HR to consider me.,Yes
+3/3/2026 10:59:57,Raytheon,Massachusetts,P4,Engineering,14,12,,Yes,3.65,,168702,14206,4 - Happy,,Yes
+3/3/2026 11:10:48,Raytheon,Tewksbury,P2,Engineering,3,1,1,Yes,3.15,Bachelors,95930,6164,3 - Ambivalent,,Yes
+3/3/2026 12:29:24,Collins Aerospace,"Sterling,Va",P2,Engineering,4,2,2,Yes,3,Bachelors,122000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/3/2026 13:26:02,Collins Aerospace,Remote,P3,Finance,12,2,2,Yes,3,Bachelors,114000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/3/2026 13:51:20,Raytheon,Tucson,M4,Engineering,14,7,4,Yes,4.5,Bachelors,151000,11500,4 - Happy,,Yes
+3/3/2026 14:36:03,Pratt and Whitney,East Hartford,P2,Engineering,3,3,1,Yes,3.09,Bachelors,100000.02,0,4 - Happy,,No - my position is not eligible for a bonus
+3/3/2026 17:28:38,Raytheon,Tucson,P3,Operations,9,5,1,Yes,2.65,Bachelors,112925,7000,1 - Terrible,,Yes
+3/3/2026 18:00:24,Pratt and Whitney,East Hartford,P3,Engineering,7,7,3,Yes,3.52,Bachelors,119000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/3/2026 18:39:47,Collins Aerospace,Windsor Locks,P5,Operations,10,9,0,Yes,3,Bachelors,147750,15400,4 - Happy,,Prorated
+3/3/2026 19:25:55,Pratt and Whitney,CT,P5,Engineering,18,18,2,Yes,3,"Bachelors, Masters, Phd",175000,24000,4 - Happy,,Yes
+3/3/2026 20:07:39,Pratt and Whitney,Remote,P5,Finance ,12,12,2,Yes,3.4,Masters,142000,20000,3 - Ambivalent,,Yes
+3/3/2026 20:31:27,Raytheon,Tucson,M4,Engineering,10,10,0,"No - received a promotion ""inclusive og merit""",,Masters,160000,8650,4 - Happy,,Yes
+3/3/2026 22:34:24,Raytheon,El Segundo,P5,Engineering,18,18,5,Yes,3.6,"Bachelors, Masters",217106,21983,4 - Happy,Not going to stick around. ,Yes
+3/4/2026 1:14:21,Collins Aerospace,Rockford,P4,Quality,14,,4,Yes,4,"Bachelors, Masters",135000,,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/4/2026 4:43:46,Raytheon,Forrest,P3,DT,35,2,1,Yes,2,None,109363,6519,3 - Ambivalent,Seeing most people got 3 and I only got 2. ,Yes
+3/4/2026 4:49:09,Raytheon,Tucson,P3,Engineering ,8,8,3,Yes,2.8,Masters,112000,6600,3 - Ambivalent,,Yes
+3/4/2026 6:13:04,Raytheon,Woburn,P3,Engineering,5,3,1,Yes,3.05,Bachelors,124200,7600,2 - Unhappy,,Yes
+3/4/2026 7:22:29,Raytheon,Woburn,P3,Engineering,5,5,0,Yes,3,Bachelors,123600,7296,4 - Happy,,Yes
+3/4/2026 10:00:24,Raytheon,Andover,M4,Engineering,10,4,2,Yes,3.5,"Bachelors, Masters",146000,10000,4 - Happy,,Yes
+3/4/2026 10:24:24,Raytheon,Marlborough,P4,Engineering,9,9,3,Yes,3.7,Bachelors,142000,11500,2 - Unhappy,,Yes
+3/4/2026 12:09:48,Raytheon,Tucson,P3,Engineering,6,6,0,Received 15% promotion prior to merit raise ,2.9,Bachelors,119000,7500,3 - Ambivalent,Promotion + merit raise is a thing if your manager is chill,Yes
+3/4/2026 12:45:40,Raytheon,"McKinney, TX",P3,Engineeri ng,8,7,4,Yes,2.8,"Bachelors, Masters",133000,8000,3 - Ambivalent,,Yes
+3/4/2026 12:51:54,Collins Aerospace,Windsor Locks,P2,Engineering,4,4,2,Yes,3.59,Bachelors,101000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/4/2026 14:40:51,Raytheon,Tucson,P3,Engineering ,7,7,2,Yes,4.5,"Bachelors, Masters",111000,7500,4 - Happy,,Yes
+3/4/2026 14:52:15,Other (e.g.) corporate,Remote Tucson,P4,Enterprise Services,25,9,3,Yes,2.97,Assoc,156000,24500,4 - Happy,,Yes
+3/4/2026 15:32:21,Raytheon,Farmington,P1,AR,3,2,2,Yes,2.5,Bachelors,63000,0,1 - Terrible,I am actively looking to leave ,No - my position is not eligible for a bonus
+3/4/2026 15:57:15,Pratt and Whitney,Remote,P4,Engineering,10,8,3,Yes,2.6,"Bachelors, Masters",151000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/4/2026 17:58:12,Pratt and Whitney,East Hartford,P2,Engineering,3,3,0,Yes,2.73,Bachelors,94100,0,2 - Unhappy,Ants done serve grasshoppers!,No - my position is not eligible for a bonus
+3/4/2026 19:46:35,Raytheon,Tucson,P2,Engineering,4,2,2,Yes,3,"Bachelors, Masters",105832,6250,4 - Happy,,Yes
+3/4/2026 20:59:00,Pratt and Whitney,East Hartford ,P2,Engineering ,1,0,0,No - too recent of a hire,,Masters,,,,,No - too recent of a hire
+3/4/2026 21:09:07,Collins Aerospace,Windsor Locks,P3,Engineering,12,4,4,Yes,3.3,"Bachelors, Masters",124000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/4/2026 22:37:31,Raytheon,Tucson,P2,Engineering,5,2,2,Yes,3.2,"Bachelors, Masters",112000,7000,4 - Happy,Good bonus.,Yes
+3/5/2026 0:16:31,Raytheon,Remote,P2,Engineering,3,3,1,Yes,2.6,Bachelors,104115,6064,3 - Ambivalent,,Yes
+3/5/2026 7:23:38,Pratt and Whitney,CT,P3,PMO ,6,6,2,Yes,3.4,"Bachelors, Masters",117000,,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/5/2026 7:31:08,Collins Aerospace,Foley,P2,,14,12,3,Yes,3,None,85644,0,2 - Unhappy,I benchmarked my title and the work I in my current role across the industry. I’m about 25k underpaid. ,No - my position is not eligible for a bonus
+3/5/2026 9:08:56,Other (e.g.) corporate,Remote,P4,ES,30,27,,Yes,2.88,Bachelors,174000,12000,4 - Happy,,Yes
+3/5/2026 11:41:56,Collins Aerospace,Remote ,M5,Supply Chain,20,3,2,Yes,3,Bachelors,173000,25525,1 - Terrible,,Yes
+3/5/2026 11:59:35,Raytheon,Texas,P2,Engineering,8,2,2,Yes,3.5,Bachelors,106500,6400,2 - Unhappy,,Yes
+3/5/2026 13:50:44,Raytheon,Forest,P2,Engineering ,3,3,,Yes,2.9,Bachelors,87600,5180,3 - Ambivalent,,Yes
+3/5/2026 14:53:12,Raytheon,Tucson,P4,Engineering,10,2,2,Yes,2.6,Masters,172657,11511,2 - Unhappy,,Yes
+3/5/2026 15:04:06,Raytheon,Forest,P2,Engineering,5,2,2,Yes,3,Bachelors,85000,5000,2 - Unhappy,,Yes
+3/5/2026 15:56:56,Raytheon,"Huntsville, AL",P4,Engineering,10,1,1,Yes,2,"Bachelors, Masters",168000,0,3 - Ambivalent,,Yes
+3/5/2026 17:08:49,Other (e.g.) corporate,Remote,,,,,,Yes,,"Bachelors, Masters",,,3 - Ambivalent,,Yes
+3/5/2026 17:42:16,Raytheon,Remote,P1,Supply chain,0,0,0,Yes,3,Bachelors,75000,3000,4 - Happy,,Yes
+3/5/2026 19:33:35,Raytheon,Tucson,M7,PMO,30,17,2,Yes,2.5,Masters,,,2 - Unhappy,,Yes
+3/5/2026 19:40:16,Raytheon,Remote,P4,Systems Engineering,10,5,2,Yes,3.26,Masters,162500,11000,3 - Ambivalent,,Yes
+3/5/2026 19:51:54,Collins Aerospace,Remote,P1,Quality,1,3,0,Yes,3,None,78000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/6/2026 4:19:20,Collins Aerospace,Puerto rico,P2,Engineering ,4,4,2,Yes,3.5,Masters,71200,0,4 - Happy,,No - my position is not eligible for a bonus
+3/6/2026 5:48:55,Other (e.g.) corporate,Remote,P3,Engineering ,8,2,2,Yes,4.2,"Bachelors, Masters",130000,20000,5 - Estatic,"13k bonus from STI, 7k in awards",Yes
+3/6/2026 6:41:41,Pratt and Whitney,Longueuil,P4,Customer Service,18,18,3,Yes,3,,125000,0,2 - Unhappy,Salaray in CAD,No - my position is not eligible for a bonus
+3/6/2026 7:33:04,Raytheon,Remote,P2,Finance ,3,3,0,"No - received a promotion ""inclusive og merit""",15,Bachelors,74695,3897,5 - Estatic,,Yes
+3/6/2026 8:35:47,Pratt and Whitney,North Berwick,P3,Engineering,6,6,2,Yes,2.74,Bachelors,106000,12000,3 - Ambivalent,,Yes
+3/6/2026 9:16:30,Pratt and Whitney,East Hartford,P4,Operations,10,4,2,Yes,3.25,Bachelors,126500,,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/6/2026 10:47:15,Collins Aerospace,Richardson,P5,Engineering,12,5,2,Yes,4.5,Bachelors,180315,37012,5 - Estatic,,Yes
+3/6/2026 11:33:29,Raytheon,"Tucson, AZ",P3,Contracts,15,0,0,Yes,2,Bachelors,107100,0,3 - Ambivalent,,No - too recent of a hire
+3/6/2026 18:41:37,Collins Aerospace,Wilsonville,T4,Engineering,5,3,3,Yes,4,None,78000,0,4 - Happy,,No - my position is not eligible for a bonus
+3/6/2026 19:35:36,Pratt and Whitney,EH,P6,Engineering,9,9,0,Yes,4.5,Masters,184000,29000,4 - Happy,Bonus based on P5 comp,Yes
+3/6/2026 21:07:45,Pratt and Whitney,remote,P5,Engineering,6,6,0,Yes,2.2,"Bachelors, Phd",170000,1000,4 - Happy,,Yes
+3/7/2026 9:19:42,Pratt and Whitney,East Hartford ,M6,Ops,14,10,0,Yes,3.5,"Bachelors, Masters",183000,30000,4 - Happy,,Yes
+3/7/2026 11:36:09,Pratt and Whitney,East Hartford,P2,Engineering,9,4,4,Yes,0,Bachelors,101888,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/7/2026 12:06:07,Collins Aerospace,Windsor Locks,p3,Engineering,5,0,0,Yes,3,Bachelors,110000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/8/2026 0:48:26,Raytheon,Tucson,P2,Engineering,3,3,0,Yes,2.8,Bachelors,90300,5100,1 - Terrible,,Yes
+3/8/2026 10:28:46,Pratt and Whitney,East Hartford,P3,Engineering,12,9,4,Yes,4.07,Bachelors,120000,,4 - Happy,,No - my position is not eligible for a bonus
+3/8/2026 14:39:59,Collins Aerospace,Windsor Locks,P3,Engineering,7,7,2,Yes,3.05,"Bachelors, Masters",124000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/8/2026 18:53:11,Pratt and Whitney,Oklahoma City,P4,Engineering,10,9,2,Yes,4.16,"Bachelors, Masters",132800,20500,4 - Happy,,Yes
+3/8/2026 19:47:09,Pratt and Whitney,Temote,P2,Engineering,4,4,2,Yes,3.36,Bachelors,92400,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/8/2026 20:01:58,Other (e.g.) corporate,MCKINNEY ,P5,DT,39,39,6,Yes,2.85,Bachelors,5600,48000,5 - Estatic,,Yes
+3/8/2026 22:16:14,Pratt and Whitney,East Hartford ,P3,Engineering ,5,2,2,Yes,2.5,"Bachelors, Masters",120000,750,3 - Ambivalent,,Yes
+3/9/2026 4:45:31,Raytheon,Andover,P5,PM,30,6,2,Yes,2.99,Masters,171000,15500,3 - Ambivalent,,Yes
+3/9/2026 6:14:23,Collins Aerospace,Cedar Rapids ,P2,Ops - Engineeering,3,3,1,Yes,3,Bachelors,100011,0,4 - Happy,,No - my position is not eligible for a bonus
+3/9/2026 7:03:26,Collins Aerospace,Remote,P3,Engineering,7,3,0,Yes,3.33,Bachelors,121000,0,4 - Happy,,No - my position is not eligible for a bonus
+3/9/2026 8:40:48,Other (e.g.) corporate,Remote,P5,Engineering,13,9,3,Yes,4.5,,195000,50000,5 - Estatic,,Yes
+3/9/2026 8:54:24,Raytheon,Remote,P4,DT,15,1,1,Yes,2.99,Bachelors,141200,11200,4 - Happy,,Yes
+3/9/2026 12:08:26,Raytheon,Glenrothes,P3,Engineering,12,6,4,Yes,4.2,Bachelors,73000,4700,4 - Happy,,Yes
+3/9/2026 13:49:15,Collins Aerospace,Remote,P2,Engineering,3,3,1,Yes,3.7,Bachelors,95500,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/9/2026 13:53:52,Collins Aerospace,Cedar Rapids,P3,Engineering,10,5,1,Yes,2.3,Bachelors,116000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/9/2026 14:14:05,Pratt and Whitney,East Hartford,P3,Ops,8,3,3,Yes,3.36,Bachelors,119900,0,3 - Ambivalent,Was told I got above average,No - my position is not eligible for a bonus
+3/9/2026 14:52:23,Raytheon,Remote,P4,Engineering Finance,10,8,2,Yes,3.75,"Bachelors, Masters",139000,10600,4 - Happy,,Yes
+3/9/2026 17:44:32,Raytheon,Tucson,P3,Engineering,17,7,7,Yes,3,Masters,150000,9500,4 - Happy,,Yes
+3/10/2026 7:08:47,Raytheon,"LOUISVILLE, KY",P3,Supplier Quality Engineering,9,4,2,Yes,3.2,Bachelors,118898,7005,3 - Ambivalent,,Yes
+3/10/2026 14:12:30,Raytheon,Plano,P5,DT,8,0,0,Yes,2,"Bachelors, Masters",178500,3780,3 - Ambivalent,"Started the day of the cut-off for bonus & merit, so prorated",Yes
+3/10/2026 19:35:17,Collins Aerospace,Cedar Rapids,P2,Engineering,3,3,1,Yes,3,Bachelors,92700,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/11/2026 8:58:16,Pratt and Whitney,EH,P3,Engineering,5,2,1,Yes,2.99,"Bachelors, Masters",121700,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/11/2026 12:33:09,Collins Aerospace,Richardson ,P2,Engineering,4,1,1,Yes,2.8,Masters,98660,0,1 - Terrible,,No - my position is not eligible for a bonus
+3/11/2026 14:28:33,Pratt and Whitney,Mississauga,P2,Engineering,4,3,1,Yes,3.5,Bachelors,89500,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/11/2026 17:38:36,Raytheon,Tucson,P4,Engineer,9,18,4,Yes,3.1,None,138000,11500,2 - Unhappy,,Yes
+3/11/2026 18:29:24,Collins Aerospace,Richardson,P2,Engineering,4,4,1,Yes,3,Bachelors,105000,5800,4 - Happy,,Yes
+3/11/2026 20:31:57,Collins Aerospace,Remote,P4,Finance,13,10,1,Yes,3.75,"Bachelors, Masters",119700,14500,4 - Happy,,Yes
+3/12/2026 4:38:32,Raytheon,Woburn,P5,Engineering,22,22,11,Yes,2.5,Bachelors,200000,16000,2 - Unhappy,,Yes
+3/12/2026 7:48:14,Collins Aerospace,Kansas,P3,Manufacturing Engineer,6,2,2,Yes,5,Masters,109200,0,4 - Happy,,No - my position is not eligible for a bonus
+3/12/2026 18:14:47,Pratt and Whitney,East Hartford,P4,Engineering,22,3,3,Yes,2.97,Bachelors,142200,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/12/2026 19:22:32,Raytheon,Boston ,P3,Engineering ,7,2,2,Yes,3.8,Bachelors,150000,10000,4 - Happy,,Yes
+3/12/2026 19:25:31,Collins Aerospace,Remote,M5,Finance,14,4,4,Yes,3,Masters,205000,,3 - Ambivalent,,Yes
+3/12/2026 19:53:03,Pratt and Whitney,CT,P4,Manufacturing Enineering,9,9,1,Yes,4.75,"Bachelors, Masters",125700,0,4 - Happy,,No - my position is not eligible for a bonus
+3/13/2026 5:37:11,Collins Aerospace,"Winston-Salem, NC",P5,Engineering,13,8,2,Yes,3.2,Bachelors,162633,33803,5 - Estatic,Merit sucks and is almost pointless but bonus makes up for it,Yes
+3/13/2026 10:48:13,Raytheon,Remote,P1,Coportate ,0,0,0,Yes,3,Bachelors,80500,,3 - Ambivalent, Northeast,No - my position is not eligible for a bonus
+3/13/2026 14:39:26,Raytheon,Andover,P2,Quality Engineer,5,1,1,Yes,4,Bachelors,95000,,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/13/2026 18:02:15,Collins Aerospace,,P2,Operations ,3,4,0,Yes,3.1,Bachelors,92700,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/13/2026 18:29:52,Raytheon,Tucson,P6,Program Office,28,28,5,Yes,2.8,Bachelors,223000,75000,5 - Estatic,,Yes
+3/14/2026 17:45:25,Raytheon,Tewksbury ,m6,pmo,26,18,1,Yes,3,"Bachelors, Masters",230000,68000,4 - Happy,,Yes
+3/15/2026 6:52:52,Collins Aerospace,Florida,P4,Engineering,30,7,4,Yes,3.2,Bachelors,155977,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/15/2026 14:57:19,Pratt and Whitney,Remote,P6,Pmo,16,2,0,Yes,2.5,Bachelors,189000,26500,4 - Happy,,Yes
+3/15/2026 19:46:12,Collins Aerospace,Rockford,P3,Engineering,6,4,4,Yes,3.4,Bachelors,120000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/16/2026 6:14:16,Raytheon,Remote,P3,Engineering,8,5,1,Yes,3.15,Bachelors,109500,7100,3 - Ambivalent,,Yes
+3/16/2026 10:15:39,Collins Aerospace,Rome,P2,Engineering,14,2,2,Yes,4,Bachelors,99840,0,4 - Happy,,No - my position is not eligible for a bonus
+3/16/2026 10:20:15,Collins Aerospace,CA,P1,Engineering,8,6,0,"No - received a promotion ""inclusive og merit""",0,Bachelors,94011,0,1 - Terrible,Collins can suck it from the back,No - my position is not eligible for a bonus
+3/16/2026 10:20:26,Collins Aerospace,Miami,P2,Engineering,2,2,0,Yes,3.2,Bachelors,97000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/16/2026 10:22:11,Raytheon,Remote,P4,Quality,12,1,1,Yes,3.1,"Bachelors, Masters",155000,8900,4 - Happy,,Yes
+3/16/2026 10:23:32,Raytheon,Ca,M4,Ops,12,10,3,Yes,3.7,Masters,173761,13371,4 - Happy,,Yes
+3/16/2026 10:28:52,Pratt and Whitney,East Hartford ,P5,Ops,15,6,3,Yes,3.5,"Bachelors, Masters",167000,24000,3 - Ambivalent,,Yes
+3/16/2026 10:32:22,Collins Aerospace,"Windsor Locks, CT",P3,Power and Controls,16,0,0,No - too recent of a hire,,Associates,,,,,No - my position is not eligible for a bonus
+3/16/2026 10:38:52,Collins Aerospace,Remote,P4,Finance,16,2,2,Yes,3,Bachelors,140000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/16/2026 10:39:48,Collins Aerospace,Cedar Rapids,P2,Engineering,3,3,1,Prorated due to mid-year promotion,2.26,Bachelors,97200,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/16/2026 10:43:42,Raytheon,Marlborough ,M4,Cybersecurity ,12,4,0,Yes,3.2,Masters,159960,11780,3 - Ambivalent,,Yes
+3/16/2026 10:45:26,Collins Aerospace,Remote ,P4,Engineering (Cyber),14,4,4,Yes,3,"Bachelors, Masters",172000,12000,3 - Ambivalent,"I had a great 2025, delivered solid results and went above and beyond. My bonus felt great until I see everyone was rewarded similarly. ",Yes
+3/16/2026 10:46:58,Collins Aerospace,Remote,P5,Sales & Business Development,19,4,0,Yes,3,"Bachelors, Masters",144715,2725,3 - Ambivalent,Sorry for the late entry but I think this will impact your data baseline based on recent reddit post,1/12 of bonus due to role start date
+3/16/2026 10:51:10,Collins Aerospace,remote,p4,legal/compliance,12,3,2,Yes,3.2,"Bachelors, Masters",125000,0,4 - Happy,,No - my position is not eligible for a bonus
+3/16/2026 10:53:30,Raytheon,Tewksbury,P2,Engineering,6,1,1,Yes,4,Bachelors,115000,7000,4 - Happy,,Yes
+3/16/2026 10:58:01,Collins Aerospace,Remote,M5,Legal/Compliance,12,3,0,No - too recent of a hire,0,Masters,143000,0,3 - Ambivalent,,No - too recent of a hire
+3/16/2026 11:05:57,Collins Aerospace,Remote,M6,DT,15,10,2,Yes,3,Bachelors,208000,59000,4 - Happy,,Yes
+3/16/2026 11:07:45,Collins Aerospace,Burnsville,P4,Product VSL /Manager,13,13,4,Yes,2.89,"Bachelors, Masters",143000,0,1 - Terrible,I was effectively given a p5 role without applying and now I'm given all the reasons Im not worthy of that grade which means instead of a 15% bonus I get 0%. People should be aware the risk of taking a role without applying - may not be worth it. ,No - my position is not eligible for a bonus
+3/16/2026 11:22:52,Pratt and Whitney,OKC,P3,Engineering,6,0,0,Yes,2.8,Bachelors,121300,5400,4 - Happy,,Yes
+3/16/2026 11:26:30,Pratt and Whitney,Remote,P3,Ops/Supply Chain,15,2,2,,3,Bachelors,112000,0,5 - Estatic, ,No - my position is not eligible for a bonus
+3/16/2026 11:34:39,Collins Aerospace,Richardson ,P4,Engineering ,18,7,3,Yes,3.44,"Bachelors, Masters",,0,4 - Happy,,No - my position is not eligible for a bonus
+3/16/2026 11:46:57,Pratt and Whitney,CT,P4,Operations ,18,18,10,Yes,3.23,Masters,151500,22119,3 - Ambivalent,,Yes
+3/16/2026 12:06:50,Collins Aerospace,Annapolis,P3,Engineering,8,2,2,Yes,3,"Bachelors, Masters",137500,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/16/2026 12:18:42,Collins Aerospace,Germany,M4,Quality,8,4,2,Yes,3.5,Masters,104,0,4 - Happy,,No - my position is not eligible for a bonus
+3/16/2026 12:19:54,Pratt and Whitney,East Hartford ,P3,Manufacturing Engineer ,7,7,0,Yes,3.5,Bachelors,103500,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/16/2026 12:27:22,Pratt and Whitney,CT,P1,Engineering,3,2,2,Yes,2,"Bachelors, Masters",80200,0,1 - Terrible,,No - my position is not eligible for a bonus
+3/16/2026 12:40:14,Pratt and Whitney,Remote,P3,Finance,15,5,5,Yes,3,"Bachelors, Masters",121000,6000,4 - Happy,,Yes
+3/16/2026 13:29:11,Raytheon,,T5,,35,26,11,Yes,3,,98582,4340,3 - Ambivalent,,Yes
+3/16/2026 13:31:20,Raytheon,Remote,P3,Supply Chain,7,4,3,Yes,3,"Bachelors, Masters",136000,7950,4 - Happy,,Yes
+3/16/2026 13:37:03,Pratt and Whitney,Remote,P3,Digital,4,4,1,Yes,3,"Bachelors, Masters",105000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/16/2026 14:11:29,Pratt and Whitney,East Hartford,M5,Engineering,18,10,2,Yes,3,Bachelors,170000,24000,2 - Unhappy,,Yes
+3/16/2026 14:21:19,Collins Aerospace,CA,M4,Engineering,9,9,2,Yes,3.3,"Bachelors, Masters",194368,14126,4 - Happy,In tier 2 (highest) cost of living area,Yes
+3/16/2026 14:35:58,Other (e.g.) corporate,PJ,C1,CEO,30,20,3,Yes,3,Bachelors,1200000,30125000,4 - Happy,Need to talk to the board about my bonus,Yes
+3/16/2026 14:43:14,Pratt and Whitney,East Hartford,P4,Supply Chain,14,4,1,Yes,3.9,None,109100,,2 - Unhappy,,No - my position is not eligible for a bonus
+3/16/2026 14:49:55,Collins Aerospace,Rockford,P3,Engineering,12,3,3,Yes,3,Bachelors,118200,,2 - Unhappy,,No - my position is not eligible for a bonus
+3/16/2026 15:10:33,Collins Aerospace,Melbourne,P3,Ops,5,3,2,Yes,4,Masters,124800,0,4 - Happy,,No - my position is not eligible for a bonus
+3/16/2026 16:10:22,Other (e.g.) corporate,Remote,P2,DT,7,7,7,Yes,2.96,Bachelors,88000,0,1 - Terrible,,No - my position is not eligible for a bonus
+3/16/2026 16:11:27,Collins Aerospace,New Hampshire ,P3,Engineering,11,5,2,Yes,3.31,"Masters, MBA",117000,12961,4 - Happy,,Yes
+3/16/2026 16:12:56,Collins Aerospace,Simpsonville,P3,Manufacturing Engineering - Ops,23,3,3,Yes,3,Bachelors,108655,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/16/2026 16:41:16,Collins Aerospace,North Carolina ,P3,Engineering,4,4,2,Yes,3.25,"Bachelors, Masters",117000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/16/2026 16:59:59,Collins Aerospace,Connecticut ,M5,Global trade licensing ,15,5,2,Yes,3,"Bachelors, Masters",154000,32000,4 - Happy,,Yes
+3/16/2026 17:10:36,Pratt and Whitney,east hartford,P3,Ops,9,4,4,Yes,3.1,Bachelors,95000,2000,3 - Ambivalent,,Yes
+3/16/2026 17:23:44,Raytheon,Hybrid,P4,Engineering ,14,9,1,No - too recent of a hire,2.7,"Bachelors, Masters",167000,11600,3 - Ambivalent,,Yes
+3/16/2026 17:34:01,Raytheon,Remote,P2,Ops,30,20,5,Yes,2.9,Bachelors,103000,6000,3 - Ambivalent,Management acts like I did great! I see I did not.,Yes
+3/16/2026 17:40:32,Raytheon,Tewksbury,P3,Engineering,5,5,2,Yes,3.75,"Bachelors, Masters",112000,7000,2 - Unhappy,,Yes
+3/16/2026 17:49:48,Pratt and Whitney,Remote,P5,Ops,11,1,1,Yes,2.9,Masters,194000,31100,3 - Ambivalent,,Yes
+3/16/2026 17:52:16,Raytheon,huntsville,p4,engineering,20,14,4,Yes,3.2,Masters,140000,10000,1 - Terrible,,Yes
+3/16/2026 17:59:45,Collins Aerospace,Remote,P3,Supply Chain,7,7,3,Yes,3.25,Bachelors,107000,,2 - Unhappy,,No - my position is not eligible for a bonus
+3/16/2026 18:23:37,Raytheon,Tucson,P3,Engineering,7,7,1,Yes,3,Bachelors,123600,7800,3 - Ambivalent,,Yes
+3/16/2026 18:41:47,Collins Aerospace,Burnsville,PM4,Ops,4,3,2,Yes,4.6,None,81890,0,4 - Happy,,No - my position is not eligible for a bonus
+3/16/2026 18:55:32,Other (e.g.) corporate,Remote,M5,Digital Technology,22,18,4,Yes,3.27,"Bachelors, Masters",176800,45000,4 - Happy,,Yes
+3/16/2026 18:55:38,Collins Aerospace,Burnsville ,p5,engineering ,18,16,2,Yes,3.2,Masters,175000,36700,4 - Happy,,Yes
+3/16/2026 19:35:25,Raytheon,Tucson,P4,Engineering,14,10,1,Yes,2.85,"Bachelors, Masters",180000,7900,3 - Ambivalent,,Yes
+3/16/2026 19:50:08,Raytheon,Los Angeles,P3,Engineering,17,17,7,Yes,3,"Bachelors, Masters",144000,8889,4 - Happy,,Yes
+3/16/2026 19:50:52,Collins Aerospace,Cedar Rapids,P5,Engineering,34,22,8,Yes,2.32,"Bachelors, Masters",180500,37837.8,3 - Ambivalent,got an out-of-band raise back in December so raise now was less,Yes
+3/16/2026 20:17:59,Raytheon,Remote,M4,LCC,30,11,1,Yes,4.86,Associates,107950,7988,4 - Happy,,Yes
+3/16/2026 20:30:16,Pratt and Whitney,Columbus GA,PM (S3),Engine mechanic,12,5,1,Yes,3.53,None,67000,4800,4 - Happy,LCOL area & no degree required. ($35/HR),Yes
+3/16/2026 21:13:40,Pratt and Whitney,"North Berwick, Maine",S2,Ops,7,4,3,Yes,2.52,None,26.42,4593.8,2 - Unhappy,,Yes
+3/16/2026 21:49:25,Raytheon,Tucson,P3,Ops/Supply Chain,4,1,0,Yes,3.5,"Bachelors, Masters",111000,7000,4 - Happy,,Yes
+3/16/2026 22:00:54,Collins Aerospace,Burnsville,P3,Engineering,10,3,3,Yes,2.75,Masters,142000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/16/2026 22:41:39,Raytheon,McKinney,P2,Engineering,10,0,0,Yes,2,Bachelors,94350,0,2 - Unhappy,OH cuts mean doing twice as much but getting no related pay increase,No - too recent of a hire
+3/16/2026 22:53:52,Raytheon,Tucson,P4,,13,3,3,Yes,2.5,Masters,17779611556,11556,3 - Ambivalent,,Yes
+3/17/2026 2:45:02,Collins Aerospace,Marlborough ,P2,Engineering ,2,2,1,Yes,3.4,Bachelors,104000,6200,2 - Unhappy,,Yes
+3/17/2026 4:03:33,Pratt and Whitney,Remote,P2,Software Engineering,3,3,1,Yes,3.19,Bachelors,97000,0,3 - Ambivalent,1500 in rstars bonus received (cash) ,No - my position is not eligible for a bonus
+3/17/2026 4:48:52,Collins Aerospace,Remote,M6,Quality ,25,,13,Yes,3,Masters,231000,68000,4 - Happy,,Yes
+3/17/2026 4:50:05,Collins Aerospace,Rockford ,P3,Engineering ,8,7,2,Yes,3.13,Masters,112800,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/17/2026 4:51:25,Collins Aerospace,Windsor Locks/Houston,P1,Engineering,1,1,85000,Yes,2.5,Bachelors,87000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/17/2026 5:08:12,Collins Aerospace,Remote,M5,Finance,16,3,0,"No - received a promotion ""inclusive og merit""",,Masters,185000,0,4 - Happy,,No - my position is not eligible for a bonus
+3/17/2026 5:21:59,Pratt and Whitney,Hybrid,P2,Engineering,5,3,3,Yes,3,Bachelors,94400,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/17/2026 7:13:41,Raytheon,Tucson,P3,Engineering,10,3,3,Yes,2.9,Masters,,,3 - Ambivalent,,Yes
+3/17/2026 7:18:48,Pratt and Whitney,East Hartford,P5,DT,27,7,3,Yes,3.1,None,184034,25000,5 - Estatic,"I have worked in many, many enviornments before coming to Pratt.  This is easily the best enviornment I've been in.  Every job has it's hurdles, but overall we are treated very well compared to other companies out there.",Yes
+3/17/2026 7:31:09,Collins Aerospace,,m6,Finance,13,12,0,"No - received a promotion ""inclusive og merit""",,Bachelors,186000,40000,3 - Ambivalent,,Yes
+3/17/2026 7:42:14,Pratt and Whitney,East Hartford,P5,Engineering,12,10,0,Yes,2.5,Bachelors,150000,2500,2 - Unhappy,"I am unhappy with my overall compensation, but like my job. I know RTX - Pratt&Whitney is having trouble filling positions rn due to poor compensation. ",Yes
+3/17/2026 7:42:33,Pratt and Whitney,"E. Hartford, CT",P4,Finance ,15,8,8,Yes,3,Masters,128,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/17/2026 7:53:31,Collins Aerospace,"Cedar Rapids, IA",P5,Ops/Supply Chain,17,17,2,Yes,3.7,Bachelors,151000,31240,4 - Happy,,Yes
+3/17/2026 7:58:33,Pratt and Whitney,East Hartford,P3,Engineering,14,2,2,Yes,3,Bachelors,110,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/17/2026 8:18:43,Collins Aerospace,"Burnsville, MN",P3,Engineering,12,12,3,Yes,3.2,"Bachelors, Masters",120795,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/17/2026 8:40:38,Other (e.g.) corporate,Remote ,P3,Supply chain ,3,3,1,No - too recent of a hire,3.7,Masters,90000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/17/2026 9:45:56,Pratt and Whitney,East Hartford ,P3,Engineering ,11,8,4,Yes,3.05,Bachelors,116000,0,1 - Terrible,,No - my position is not eligible for a bonus
+3/17/2026 10:03:15,Raytheon,Andover,P3,Ops/Supply Chain,4,3,0,Yes,4,"Bachelors, Masters",104000,3300,3 - Ambivalent,,Yes
+3/17/2026 10:24:17,Pratt and Whitney,Remote,M4,OSC,,5,,Yes,3,Bachelors,115000,,,,No - my position is not eligible for a bonus
+3/17/2026 11:20:47,Raytheon,Tucson,P3,Engineering,7,2,2,Yes,2.5,"Bachelors, Masters",148461,8365.96,4 - Happy,,Yes
+3/17/2026 13:43:48,Other (e.g.) corporate,Remote,P3,DT,13,6,6,Yes,3.26,Associates,133200,7800,3 - Ambivalent,,Yes
+3/17/2026 14:19:53,Raytheon,Tucson ,P2,Eng,2,2,0,"No - received a promotion ""inclusive og merit""",24,Bachelors,100000,4151.97,5 - Estatic,Went from 80450 to 100k with P1 to p2 bump,Yes
+3/17/2026 16:07:16,Collins Aerospace,Remote,P3,Digital Technology,3,3,1,Yes,3.4,Bachelors,103400,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/17/2026 16:12:37,Pratt and Whitney,Remote,P3,Engineering ,10,6,3,Yes,3.2,"Bachelors, Masters",110400,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/17/2026 17:18:44,Other (e.g.) corporate,Remote,P5,Ops/Supply Chain ,10,6,0,Yes,3.8,Masters,135000,9000,4 - Happy,Bonus was pro-rated based on promotion date ,Yes- pro-rated based on promotion date
+3/17/2026 17:49:14,Raytheon,Tucson,P2,Engineering,3,0,0,No - too recent of a hire,,"Bachelors, Masters",,,,,No - too recent of a hire
+3/17/2026 19:19:02,Raytheon,Remote,P2,Digital Technology,4,3,0,"No - received a promotion ""inclusive og merit""",,Bachelors,93000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/17/2026 19:52:54,Collins Aerospace,Cedar Rapids,P1,Engineering ,1,1,1,Yes,3.9,Bachelors,85198,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/17/2026 19:58:15,Pratt and Whitney,OKC,P4,Engineering,9,9,0,Yes,3,"Bachelors, Masters",123000,,4 - Happy,,Yes
+3/17/2026 20:29:17,Pratt and Whitney,East Hartford,P4,Engineering,10,10,4,Yes,3.15,"Bachelors, Masters",145100,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/17/2026 22:03:08,Raytheon,El Segundo,M5,Engineering,31,25,0,Yes,3.16,Bachelors,189785,15895,4 - Happy,,Yes
+3/17/2026 22:17:16,Raytheon,Tucson,P4,Finance,22,7,2,Yes,3.25,"Bachelors, Masters",134,10400,4 - Happy,,Yes
+3/17/2026 22:41:28,Raytheon,El Segundo,P2,Engineering,3,3,1,Yes,3.2,Bachelors,96000,5800,2 - Unhappy,,Yes
+3/18/2026 3:23:44,Raytheon,Tewksbury,P2,Engineering,3,0,1,Yes,3.5,Bachelors,103500,2438,4 - Happy,,Yes
+3/18/2026 3:46:07,Raytheon,Tucson,P3,Engineering,13,7,6,Yes,3.5,Bachelors,111000,7000,1 - Terrible,,Yes
+3/18/2026 4:37:33,Raytheon,Remote,P3,Engineering ,12,8,6,Yes,3,Bachelors,,4640,3 - Ambivalent,,Yes
+3/18/2026 8:58:08,Raytheon,MA,P1,Logistics,1,2,1,Yes,3,None,61800,4,2 - Unhappy,,Yes
+3/18/2026 9:41:11,Pratt and Whitney,WPB,P2,Engineering,5,4,4,Yes,4.45,Bachelors,98300,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/18/2026 10:00:04,Raytheon,Midland ontario canada,S2,Operations team member,0,0,0,Yes,2.5,Trade school,42889,92,3 - Ambivalent,I had worked for this company 9 years ago and they still treat employees the same. Never increasing the wage more then minimum. The living wage for my area is 24.66/h,Yes
+3/18/2026 10:04:37,Raytheon,Andover,P3,"PDS - Digital Technology, not Kyndryl",35,4,4,Yes,2.91,Bachelors,144000,8000,3 - Ambivalent,"Liked the bonus being 152%, but feel like raises need to stop being capped.",Yes
+3/18/2026 13:56:43,Collins Aerospace,,P6,Engineering ,20,20,0,"No - received a promotion ""inclusive og merit""",0,Bachelors,184000,36800,4 - Happy,,Yes
+3/18/2026 21:03:26,Pratt and Whitney,Oklahoma,P2,Operations,7,4,4,Yes,3,None,83568,9650,4 - Happy,More than happy with the bonus. Merit was as expected baseline and continues to seem to be not actually based on performance. Seems to be more based on favoritism or base pay (to equal pay across team),Yes
+3/19/2026 8:40:51,Collins Aerospace,Annapolis ,P3,Engineering ,6,6,1,Yes,2.7,Masters,131000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/19/2026 8:42:56,Collins Aerospace,Rockford,P4,Eng,10,10,2,Yes,3.02,Masters,143300,,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/19/2026 9:22:19,Raytheon,Portsmouth,P4,Engineering,21,5,1,Yes,3.5,None,136000,7600,3 - Ambivalent,,Yes
+3/20/2026 3:59:40,Pratt and Whitney,WPB,P3,Engineering,6,2,1,Yes,3.02,Bachelors,107500,0,4 - Happy,,No - my position is not eligible for a bonus
+3/20/2026 10:32:40,Raytheon,Tucson,P3,Engineering,3,3,3,Yes,3.35,"Masters, Phd",130400,6800,2 - Unhappy,,Yes
+3/20/2026 21:49:27,Raytheon,,P3,,10,3,3,Yes,4.5,"Bachelors, Masters",140000,0,4 - Happy,,No - my position is not eligible for a bonus
+3/21/2026 16:46:52,Collins Aerospace,Central tx,P2,Quality,2,2,1,Yes,3,Bachelors,85102,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/21/2026 18:29:11,Raytheon,Tucson,P4,Engineering,9,9,1,Yes,3.4,Bachelors,134500,8600,2 - Unhappy,,Yes
+3/22/2026 15:01:39,Raytheon,Andover,P1,Engineering ,0,0,0,Yes,2,Bachelors,90780,0,4 - Happy,,No - too recent of a hire
+3/22/2026 17:43:16,Raytheon,McKinney,P3,Quality,10,12,3,Yes,3,None,96310,5700,2 - Unhappy,,Yes
+3/24/2026 5:44:38,Raytheon,massachusetts,P5,Engineering,38,22,5,Yes,2.3,Masters,182300,13500,2 - Unhappy,,Yes
+3/24/2026 11:00:17,Pratt and Whitney,East Hartford,P3,F135 Sustainment,10,5,5,Yes,4,Bachelors,116000,0,3 - Ambivalent,Passed over for a promotion but got a great raise (4%). Was told I was a top 10% performer for my org but for some reason they couldn't justify a promotion. ,No - my position is not eligible for a bonus
+3/24/2026 11:01:54,Collins Aerospace,Melbourne,P1,Engineering,2,2,0,Yes,3,Bachelors,90640,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/24/2026 14:49:46,Raytheon,Remote ,P3,Engineering,11,11,4,Yes,3.1,Masters,115000,6400,4 - Happy,We're all underpaid ,Yes
+3/24/2026 17:16:47,Pratt and Whitney,Asheville,P3,Ops/ Supply Chain,10,4,2,Yes,3,Masters,114526,13425,2 - Unhappy,,Yes
+3/24/2026 17:48:05,Collins Aerospace,Rockford,P5,Program Manager ,16,16,2,Yes,4.5,"Bachelors, Masters",166500,34500,4 - Happy,,Yes
+3/24/2026 17:53:29,Collins Aerospace,Cedar Rapids,M6,Engineering ,29,28,4,Yes,4.2,Masters,213000,59000,5 - Estatic,Always do your best. ,Yes
+3/24/2026 21:38:08,Raytheon,El Segundo,P5,Engineering,14,5,5,Yes,2.24,Phd,221826,19392,4 - Happy,,Yes
+3/25/2026 6:47:55,Collins Aerospace,Winston-Salem ,P3,Engineering,12,3,1,"No - received a promotion ""inclusive og merit""",3,Bachelors,119000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/25/2026 8:22:36,Collins Aerospace,Richardson,P3,Cyber,8,4,1,Yes,4,"Bachelors, Masters",138900,0,4 - Happy,,No - my position is not eligible for a bonus
+3/25/2026 8:56:09,Raytheon,McKinney,M5,Ops/supply chain,11,8,2,Yes,3.6,"Bachelors, Masters",172000,17500,3 - Ambivalent,,Yes
+3/25/2026 13:08:54,Raytheon,Tucson ,P3,DT ,20,7,7,Yes,3.7,Bachelors,145000,8500,3 - Ambivalent,,Yes
+3/25/2026 20:08:05,Raytheon,Tucson,P2,PC,13,1,0,Yes,3.5,None,72500,4500,4 - Happy,,Yes
+3/26/2026 18:08:00,Raytheon,Northern Virginia,P2,Engineering,3,3,2,Yes,3.2,"Bachelors, Masters",95485,5907,2 - Unhappy,Bonus was nice but this is one of the worse raises I've gotten. Inflation and the increase in insurance kind of makes it moot.,Yes
+3/26/2026 20:19:25,Pratt and Whitney,Remote,P4,Engineering ,8,8,3,Yes,2.5,"Bachelors, Masters",132000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+3/26/2026 21:35:20,Collins Aerospace,Kansas,P2,Engineering,7,3,3,Yes,3,"Bachelors, Masters",97065.98,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/27/2026 16:14:51,Raytheon,Tucson,P3,Engineering,14,6,6,Yes,3.25,Bachelors,146000,8250,3 - Ambivalent,,Yes
+3/27/2026 17:58:43,Raytheon,,P5,,,0,0,,,"Bachelors, Masters",175000,0,,,No - too recent of a hire
+3/27/2026 18:30:25,Pratt and Whitney,Remote,P6,Engineering,18,18,1,Yes,3.5,Masters,195000,40000,4 - Happy,,Yes
+3/29/2026 9:42:40,Pratt and Whitney,Canada,P3,Supply chain ,7,6,2,Yes,4,Bachelors,107000,0,2 - Unhappy,,No - my position is not eligible for a bonus
+3/29/2026 23:19:02,Raytheon,Goleta,P2,Ops,5,8,3,Yes,1.6,Bachelors,84385,5200,1 - Terrible,,Yes
+3/30/2026 11:51:56,Pratt and Whitney,East hartford,P5,Operations ,10,4,4,Yes,2.57,Bachelors,155000,20000,4 - Happy,,Yes
+3/31/2026 3:32:39,Raytheon,Korea,P3,Field Engineering ,12,5,5,Yes,4.6,None,123000,7500,4 - Happy,,Yes
+3/31/2026 14:02:14,Collins Aerospace,Remote,E1,Ops,20,20,2,Yes,4.6,"Bachelors, Masters",295000,165000,3 - Ambivalent,"LTIP was another $130,000",Yes
+3/31/2026 17:55:29,Pratt and Whitney,Asheville,P3,Quality,20,12,2,Yes,4.25,None,109000,11000,4 - Happy,,Yes
+4/1/2026 3:42:54,Pratt and Whitney,West Palm,P3,Engineering,7,7,3,Yes,4.7,"Bachelors, Masters",114000,0,4 - Happy,,No - my position is not eligible for a bonus
+4/1/2026 5:48:09,Pratt and Whitney,East Hartford,P3,Engineering,5,5,0,"No - received a promotion ""inclusive og merit""",5,Bachelors,118125,0,4 - Happy,,No - my position is not eligible for a bonus
+4/1/2026 9:03:12,Pratt and Whitney,Remote,P3,Engineering,10,9,4,Yes,3.17,Bachelors,117200,,3 - Ambivalent,,No - my position is not eligible for a bonus
+4/1/2026 9:07:30,Collins Aerospace,Cedar Rapids,P5,Engineering,15,15,2,Yes,3.5,Bachelors,177000,36679.5,4 - Happy,,Yes
+4/1/2026 16:18:08,Raytheon,Tucson ,P3,Engineering,12,4,4,Yes,3,"Bachelors, Masters",138000,9600,4 - Happy,,Yes
+4/1/2026 18:50:48,Raytheon,Andover ,P3,Engineering,6,6,0,Yes,4,Bachelors,125000,7000,4 - Happy,,Yes
+4/2/2026 8:08:59,Collins Aerospace,Remote,M5,LCC,12,6,2,Yes,,Masters,169000,38000,4 - Happy,,Yes
+4/2/2026 16:24:45,Collins Aerospace,California ,M3,Ops,28,22,8,Yes,4,Bachelors,140000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+4/2/2026 22:55:43,Raytheon,"Plano, TX",P2,Engineering,8,7,3,Yes,3.5,Bachelors,100101,5600,4 - Happy,,Yes
+4/3/2026 5:15:10,Collins Aerospace,California ,M3,Ops,28,22,8,Yes,4,Bachelors,140000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+4/4/2026 12:55:16,Raytheon,Andover,P5,Ops Quality ,22,22,3,Yes,3.6,Bachelors,194000,10400,3 - Ambivalent,,Yes
+4/5/2026 6:54:46,Raytheon,El Segundo,P5,Engineering,16,5,2,Yes,3.48,"Bachelors, Masters",199000,19000,4 - Happy,,Yes
+4/6/2026 6:55:38,Raytheon,Huntsville,P2,Engineering,5,5,2,Yes,3.5,Bachelors,99400,5500,3 - Ambivalent,,Yes
+4/6/2026 13:12:58,Other (e.g.) corporate,Remote,P6,Ops/Supply Chain,21,18,0,"No - received a promotion ""inclusive og merit""",,Masters,177000,,4 - Happy,,Yes
+4/7/2026 1:02:12,Raytheon,Tucson,P2,Engineering,4,4,2,Yes,3,Bachelors,91000,4300,1 - Terrible,,Yes
+4/7/2026 3:16:03,Collins Aerospace,Remote,P2,LCC,22,3,0,Yes,3,Bachelors,87550,0,4 - Happy,,No - my position is not eligible for a bonus
+4/9/2026 7:43:50,Collins Aerospace,Windsor locks,M4,Ops,14,11,2,Yes,4,Bachelors,146000,0,4 - Happy,,No - my position is not eligible for a bonus
+4/9/2026 9:26:56,Collins Aerospace,Remote,M6,Operations,15,11,2,Yes,3,"Bachelors, Masters",182300,50618,4 - Happy,,Yes
+4/9/2026 19:01:38,Pratt and Whitney,Remote,M5,Engineering,16,0,0,No - too recent of a hire,0,Bachelors,180000,0,3 - Ambivalent,,No - too recent of a hire
+4/9/2026 23:31:43,Collins Aerospace,Cedar Rapids,P3,Engineering,10,8,3,Yes,3,Masters,113000,0,4 - Happy,,No - my position is not eligible for a bonus
+4/12/2026 20:03:10,Raytheon,Remote ,P3,Engineering,7,7,2,Yes,2.9,"Bachelors, Masters",103000,4300,3 - Ambivalent,,Yes
+4/13/2026 18:23:31,Pratt and Whitney,Remote,P4,Quality,8,8,2,Yes,3,"Bachelors, Masters",124000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+4/15/2026 9:52:57,Raytheon,,P4,Engineering,11,8,2,Yes,3.2,"Bachelors, Masters",125000,7000,3 - Ambivalent,,Yes
+4/16/2026 7:51:12,Collins Aerospace,Winston Salem,P5,Engineering,17,12,3,Yes,2.75,"Bachelors, Masters",152000,32000,4 - Happy,,Yes
+4/17/2026 16:16:37,Collins Aerospace,Colorado Springs,P4,Engineering ,12,12,0,Yes,3,"Bachelors, Masters",142000,0,4 - Happy,,No - my position is not eligible for a bonus
+4/20/2026 6:29:13,Collins Aerospace,Dallas,P3,Engineering,3,0,0,No - too recent of a hire,,"Bachelors, Masters",132000,0,,,No - too recent of a hire
+4/21/2026 10:01:36,Pratt and Whitney,Remote,P3,Software Engineer,6,3,3,Yes,2.9,Bachelors,121000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+4/22/2026 20:03:18,Raytheon,Tucson,P4,Engineering,13,0,0,No - too recent of a hire,,Bachelors,170000,0,3 - Ambivalent,,No - too recent of a hire
+4/26/2026 23:17:53,Raytheon,DFW,M5,Finance ,9,9,2,Yes,2.75,Bachelors,159000,16000,3 - Ambivalent,,Yes
+4/27/2026 18:13:35,Raytheon,Remote,P4,Engineering,14,9,3,Yes,4,Masters,170000,13000,4 - Happy,,Yes
+4/28/2026 9:44:38,Pratt and Whitney,Remote,P5,Engineering,9,9,0,Yes,3.15,"Bachelors, Masters",155000,20000,4 - Happy,,Yes
+4/28/2026 9:46:02,Collins Aerospace,Remote,M5,Ops,11,11,3,Yes,3,"Bachelors, Masters",167664,35000,3 - Ambivalent,chef boyardeez nutz,Yes
+4/29/2026 6:29:47,Pratt and Whitney,Remote,P4,Engineering,5,5,1,Yes,3.2,"Bachelors, Phd",147500,0,4 - Happy,,No - my position is not eligible for a bonus
+5/4/2026 7:07:14,Raytheon,Independence ,P2,Engineering,4,4,2,Yes,3,Bachelors,92000,5000,3 - Ambivalent,,Yes
+5/4/2026 12:54:46,Raytheon,Aurora ,P3,Cyber,3,3,0,Yes,3.4,Bachelors,113000,6.2,3 - Ambivalent,,Yes
+5/5/2026 12:51:33,Collins Aerospace,Marlborough,P2,Software Engineer,4,4,4,Yes,4,Bachelors,104000,6850,4 - Happy,,Yes
+5/5/2026 23:51:46,Raytheon,Tucson,P2,Engineering ,4,3,0,"No - received a promotion ""inclusive og merit""",,Bachelors,106500,6000,2 - Unhappy,,Yes
+5/6/2026 9:32:43,Raytheon,remote,P3,Finance,5,5,2,Yes,2.7,"Bachelors, Masters",94000,5000,3 - Ambivalent,,Yes
+5/7/2026 18:49:25,Raytheon,Tucson,P3,Engineering,16,5,5,Yes,4,"Bachelors, Masters",142000,9000,4 - Happy,,Yes
+5/9/2026 6:36:47,Raytheon,Goleta,M4,Ops,12,10,3,Yes,3.7,Masters,173650,14567,4 - Happy,,Yes
+5/10/2026 17:51:58,Raytheon,Remote,P3,Dt,,,,Yes,,,110000,,2 - Unhappy,,Yes
+5/11/2026 6:47:23,Collins Aerospace,Upstate NY,P2,Engineering ,3,3,1,Yes,3,Bachelors,98346,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+5/12/2026 17:30:49,Pratt and Whitney,Puerto Rico,P2,Engineering,4,4,2,Yes,3,Bachelors,77200,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+5/13/2026 8:14:07,Pratt and Whitney,East Hartford,P2,Engineering,4,3,1,Yes,3.5,Bachelors,101500,0,2 - Unhappy,,No - my position is not eligible for a bonus
+5/13/2026 12:40:57,Raytheon,Aurora,P2,Engineering,7,1,1,Yes,3.1,Multiple A.S.,93306,5300,3 - Ambivalent,,Yes
+5/14/2026 19:02:27,Raytheon,Westford,P3,Ops,4,3,0,Yes,4,Masters,108000,0,4 - Happy,,No - my position is not eligible for a bonus
+5/17/2026 21:30:57,Pratt and Whitney,Mississauga,P1,Engineering,3,2,2,Yes,3.1,Bachelors,79664.6,0,2 - Unhappy,In CAD,No - my position is not eligible for a bonus
+5/18/2026 13:20:44,Other (e.g.) corporate,Remote,P3,Finance,8,3,3,Yes,2,Masters,103600,,2 - Unhappy,,No - my position is not eligible for a bonus
+5/18/2026 14:46:15,Collins Aerospace,,,,,,,,,,,,,,
+5/22/2026 19:22:50,Raytheon,Tucson,P2,Engineering,0,0,0,No - too recent of a hire,0,"Bachelors, Masters",100000,0,4 - Happy,New hire,No - too recent of a hire
+5/28/2026 19:27:22,Raytheon,Andover,P3,Engineering,13,6,2,Yes,4.2,Bachelors,114000,,3 - Ambivalent,,Yes
+5/28/2026 21:17:40,Raytheon,McKinney,P2,Engineering,2,4,0,Yes,3.04,Bachelors,97000,47000,2 - Unhappy,,Yes
+6/2/2026 15:33:56,Pratt and Whitney,Middletown CT,P2,Engineering,4,3,1,Yes,3.2,Bachelors,96904,0,4 - Happy,,No - my position is not eligible for a bonus
+6/3/2026 14:36:59,Collins Aerospace,Windsor Locks,P2,Engineering,18,5,1,Yes,3.25,None,107500,0,4 - Happy,,No - my position is not eligible for a bonus
+6/3/2026 14:49:04,Raytheon,Tucson,P5,Quality,20,3,0,Yes,8,"Bachelors, Masters",181000,13000,3 - Ambivalent,,Yes
+6/3/2026 15:42:56,Collins Aerospace,Remote,P2,Supply Chain,4,4,2,Yes,3,Bachelors,85000,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+6/5/2026 5:23:34,Pratt and Whitney,East Hartford,P5,Engineering,9,9,2,Yes,8,"Bachelors, Masters",160000,40000,4 - Happy,,Yes
+6/8/2026 11:50:35,Collins Aerospace,Richardson,P1,Engineering,0,0,0,No - too recent of a hire,,Bachelors,89000,7500,3 - Ambivalent,,Yes
+6/9/2026 8:47:35,Raytheon,Tucson,P1,Engineering,2,6,2,Yes,4.074,Associates in IT,85340.68,5686.31,3 - Ambivalent,Started as a P1 in 01/2025 at 82000,Yes
+6/10/2026 21:17:59,Raytheon,Remote,P4,Engineering,5,5,0,"No - received a promotion ""inclusive og merit""",4,"Bachelors, Masters",168000,7000,5 - Estatic,,Yes
+6/10/2026 22:05:20,Collins Aerospace,Caligornia,P3,Operations ,18,8,2,Yes,2,"Bachelors, Masters, Certificates. ",115000,,1 - Terrible,,No - my position is not eligible for a bonus
+6/12/2026 21:27:01,Raytheon,Huntsville,P1,Software Engineer,0,0,0,No - too recent of a hire,,Bachelors,92000,3680,3 - Ambivalent,,No - too recent of a hire
+6/13/2026 13:59:33,Raytheon,El Segundo,P2,,3,3,1,Yes,3,Bachelors,108000,,2 - Unhappy,No bonus last year because I was Collins but now I’m RTX,No - my position is not eligible for a bonus
+6/14/2026 12:26:00,Raytheon,Remote,P2,Finance,12,3,3,Yes,2.35,Bachelors,79530.15,3976,4 - Happy,,Yes
+6/15/2026 19:59:23,Raytheon,Tucson,P3,Engineering,5,5,3,Yes,2.5,Bachelors,126000,5000,3 - Ambivalent,,Yes
+6/16/2026 7:59:19,Other (e.g.) corporate,Remote,P1,Finance,6,1,1,No - too recent of a hire,,Bachelors,64000,0,4 - Happy,,No - too recent of a hire
+6/16/2026 17:37:51,Collins Aerospace,Cedar Rapids,T5,Engineering ,8,8,3,Yes,3.05,Associates,85766,0,3 - Ambivalent,,No - my position is not eligible for a bonus
+6/17/2026 16:16:04,Raytheon,Tucson,P2,Program Planning,3,0,0,New hire,0,Bachelors,0,0,3 - Ambivalent,Brand new hire - have not started position yet,New hire
+6/17/2026 20:51:49,Raytheon,Tucson,P4,Finance,7,7,2,Yes,4.5,Bachelors,121000,8000,5 - Estatic,,Yes
+6/18/2026 1:35:05,Raytheon,Tucson ,P1,Engineering,0,0,0,No - too recent of a hire,,Bachelors,89000,3650,4 - Happy,,Yes
+6/18/2026 12:36:11,Collins Aerospace,Remote,P4,Program Management,16,11,9,Yes,3.15,"Bachelors, Masters",144800,0,2 - Unhappy,Took a new/bigger role in 2025 and was told it would lead to a promotion within the year. Frustrated that it has not happened 18 months later. ,No - my position is not eligible for a bonus
+6/21/2026 3:13:44,Collins Aerospace,Singapore,P5,Sales,20,7,4,Yes,4,Bachelors,13213,66000,4 - Happy,,Yes
+6/21/2026 3:21:40,Collins Aerospace,Remote,P6,Program,10,10,1,Yes,3.5,"Bachelors, Masters",235000,50000,3 - Ambivalent,,Yes
+6/21/2026 7:41:01,Raytheon,Rhode Island,P4,Engineering,9,8,2,Yes,3,"Bachelors, Masters",145000,10000,3 - Ambivalent,,Yes
+6/21/2026 8:26:46,Collins Aerospace,Jacksonville,P2,EH&S,1,1,0,"No - received a promotion ""inclusive og merit""",3,Bachelors,85000,0,4 - Happy,,No - too recent of a hire
+6/21/2026 8:32:31,Raytheon,McKinney,P1,Engineering ,1,1,1,Yes,3,Bachelors,83400,3200,3 - Ambivalent,,Yes
+6/21/2026 11:30:47,Raytheon,McKinney,p1,Engineering,1,0,0,No - too recent of a hire,0,"Bachelors, Masters",87000,0,,,No - too recent of a hire
+6/21/2026 14:39:24,Collins Aerospace,Richardson,P4,Engineering,12,11,2,Yes,3.75,"Bachelors, Masters",153000,,4 - Happy,,No - my position is not eligible for a bonus
+6/21/2026 15:14:06,Pratt and Whitney,East Hartford,M4,Engineering,8,8,0,No - too recent of a hire,,"Bachelors, Masters",160000,,5 - Estatic,Rehired from external supplier back into lateral M4 role,No - too recent of a hire
+6/21/2026 17:04:21,Pratt and Whitney,Remote,P3,HR,22,4,4,Yes,2.97,Masters,119000,0,1 - Terrible,"Less than inflation merit, while raising healthcare premiums and creating a more restrictive drug coverage list, is peak RTX.",No - my position is not eligible for a bonus
+6/21/2026 19:39:04,Raytheon,Remote (Texas),M4,Operations Finance,9,4,0,Yes,5.2,Masters,137300,13700,4 - Happy,,Yes
+6/21/2026 20:37:57,Raytheon,Tucson,M6,Engineering,18,9,3,Yes,3.2,Bachelors,228834,72801,4 - Happy,,Yes
+6/22/2026 7:56:14,Pratt and Whitney, Connecticut,P5,DT,30,72,2,Yes,3,None,180000,25477,4 - Happy,,Yes
+6/24/2026 6:05:28,Pratt and Whitney,Remote - EH,M5,Supply Chain,10,7,2,Yes,3.5,Bachelors,155000,20000,4 - Happy,,Yes
+6/26/2026 15:42:04,Raytheon,Tucson,M5,Ops Engineering,15,10,0,Yes,3.6,Bachelors,165000,,4 - Happy,,Yes
+6/28/2026 19:58:13,Collins Aerospace,Remote,P3,Customer Excellence,12,8,4,Yes,3,None,104300,0,2 - Unhappy,,No - my position is not eligible for a bonus
+6/28/2026 20:44:01,Raytheon,Colorado,P4,Engineering ,10,4,0,No - too recent of a hire,,Bachelors,149000,5000,3 - Ambivalent,,Yes
+6/29/2026 9:53:07,Collins Aerospace,Cedar Rapids,P3,Engineering,18,10,1,Yes,3.5,Bachelors,86800,0,4 - Happy,,No - my position is not eligible for a bonus
+6/29/2026 13:08:33,Raytheon,Woburn,P1,Engineering,0,0,0,No - too recent of a hire,,Bachelors,92000,,3 - Ambivalent,,No - too recent of a hire
+6/29/2026 20:40:18,Raytheon,Tucson,P2,Engineering,2,0,0,No - too recent of a hire,0,Bachelors,0,0,5 - Estatic,Joined from another prime where I was E1.,No - too recent of a hire
+6/29/2026 20:41:35,Raytheon,Tucson,P2,Engineering,2,0,0,No - too recent of a hire,0,Bachelors,115000,0,5 - Estatic,,No - too recent of a hire
+6/30/2026 1:26:29,Raytheon,tucson,P2,Engineering,4,0,0,No - too recent of a hire,0,Bachelors,98000,0,4 - Happy,New Hire,No - too recent of a hire
+6/30/2026 19:33:25,Raytheon,MA,P3,Systems Engineering,4,7,0,Yes,4.4,"Bachelors, Masters",123000,6.99,4 - Happy,,Yes
+7/1/2026 20:19:26,Collins Aerospace,Cedar Rapids,M5,Engineering,18,18,4,Yes,3.4,Masters,178000,37000,4 - Happy,,Yes
+7/3/2026 16:49:33,Raytheon,Tucson,P4,Engineering,10,3,0,"No - received a promotion ""inclusive og merit""",14.8,Bachelors,155000,,4 - Happy,,Yes
+7/6/2026 10:03:23,Collins Aerospace,Windsor Locks,P5,Engineering,15,8,2,Yes,3,Bachelors,158665,33000,3 - Ambivalent,,Yes
